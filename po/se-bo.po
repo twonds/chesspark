@@ -1,0 +1,2150 @@
+# se-bo
+
+msgid "%1 (about %2)"
+msgstr "%1 (ebuoot %2)"
+
+msgid "%1 has forfeited the tournament."
+msgstr "%1 hes furffeeeted zee tuoornement. Um de hur de hur de hur."
+
+msgid "%1 has invited you to chat in ^l%2^l"
+msgstr "%1 hes infeeted yuoo tu chet in ^l%2^l"
+
+msgid "%1 has invited you to watch game ^l%2^l"
+msgstr "%1 hes infeeted yuoo tu vetch geme-a ^l%2^l"
+
+msgid "%1 has joined the tournament."
+msgstr "%1 hes jueened zee tuoornement. Um de hur de hur de hur."
+
+msgid "%1 has left the tournament."
+msgstr "%1 hes lefft zee tuoornement. Um de hur de hur de hur."
+
+msgid "%1 has moved %2"
+msgstr "%1 hes mufed %2"
+
+msgid "%1 has moved, %2.  It is now your turn. ^lOpen game %3^l"
+msgstr "%1 hes mufed, %2. It is noo yuoor toorn. Bork bork bork! ^lOpee geme-a %3^l"
+
+msgid "%1 has requested a draw."
+msgstr "%1 hes reqooested a drev."
+
+msgid "%1 has requested to adjourn the game."
+msgstr "%1 hes reqooested tu edjuoorn zee geme-a."
+
+msgid "%1 has resigned correspondence game #%2"
+msgstr "%1 hes reseegned currespundence-a geme-a #%2"
+
+msgid "%1 has resigned.  %2 wins."
+msgstr "%1 hes reseegned. Bork bork bork! %2 veens. Um gesh dee bork, bork!"
+
+msgid "%1 has resigned."
+msgstr "%1 hes reseegned. Bork bork bork!"
+
+msgid "%1 has set the topic to %2"
+msgstr "%1 hes set zee tupeec tu %2"
+
+msgid "%1 has taken back 1 move"
+msgstr "%1 hes tekee beck 1 mufe-a"
+
+msgid "%1 has taken back one move"
+msgstr "%1 hes tekee beck oone-a mufe-a"
+
+msgid "%1 has won!"
+msgstr "%1 hes vun!"
+
+msgid "%1 in %2, %3 in %4, SD in %5"
+msgstr "%1 in %2, %3 in %4, SD in %5"
+
+msgid "%1 in %2, SD in %3"
+msgstr "%1 in %2, SD in %3"
+
+msgid "%1 is already playing a game"
+msgstr "%1 is elreedy pleyeeng a geme-a"
+
+msgid "%1 is offline."
+msgstr "%1 is ooffffleene-a."
+
+msgid "%1 is playing a game."
+msgstr "%1 is pleyeeng a geme-a."
+
+msgid "%1 is playing:"
+msgstr "%1 is pleyeeng:"
+
+msgid "%1 is watching:"
+msgstr "%1 is vetcheeng:"
+
+msgid "%1 moves until next control"
+msgstr "%1 mufes unteel next cuntrul"
+
+msgid "%1 not logged in."
+msgstr "%1 nut lugged in. Bork bork bork!"
+
+msgid "%1 offers a draw in game %2. ^lOpen game %2^l, ^laccept^l, or ^ldecline^l?"
+msgstr "%1 ooffffers a drev in geme-a %2. ^lOpee geme-a %2^l, ^leccept^l, oor ^ldecleene-a^l?"
+
+msgid "%1 room, %2 user"
+msgstr "%1 ruum, %2 user"
+
+msgid "%1 room, %2 users"
+msgstr "%1 ruum, %2 uusers"
+
+msgid "%1 rooms, %2 user"
+msgstr "%1 ruums, %2 user"
+
+msgid "%1 rooms, %2 users"
+msgstr "%1 ruums, %2 uusers"
+
+msgid "%1 vs. %2 - %3"
+msgstr "%1 fs. Um gesh dee bork, bork! %2 - %3"
+
+msgid "%1 vs. %2 - %3%4 %5"
+msgstr "%1 fs. Um gesh dee bork, bork! %2 - %3%4 %5"
+
+msgid "%1, %2, Manager: %3"
+msgstr "%1, %2, Muneger: %3"
+
+msgid "%1 moves within %2 days"
+msgstr "%1 mufes veethin %2 deys"
+
+msgid "%s has moved, %s.  It is now your turn."
+msgstr "%s hes mufed, %s. Um gesh dee bork, bork! It is noo yuoor toorn. Bork bork bork!"
+
+msgid "1 move left in control"
+msgstr "1 mufe-a lefft in cuntrul"
+
+msgid "1 move until next control"
+msgstr "1 mufe-a unteel next cuntrul"
+
+msgid "^b%1^b would like to add you to their friends list."
+msgstr "^b%1^b vuoold leeke-a tu edd yuoo tu zeeur freeends leest. Um de hur de hur de hur."
+
+msgid "^lOpen game %1^l or ^lResign Game %1^l"
+msgstr "^lOpee geme-a %1^l oor ^lReseegn Geme-a %1^l"
+
+msgid "About Chesspark"
+msgstr "Ebuoot Chessperk"
+
+msgid "About Chesspark..."
+msgstr "Ebuoot Chessperk..."
+
+msgid "Accept Game"
+msgstr "Eccept Geme-a"
+
+msgid "accept"
+msgstr "eccept"
+
+msgid "Add a friend"
+msgstr "Edd a freeend"
+
+msgid "Add Friend..."
+msgstr "Edd Freeend. Bork bork bork!.."
+
+msgid "Add Group..."
+msgstr "Edd Gruoop..."
+
+msgid "Add More Time to Opponent's Clock..."
+msgstr "Edd Mure-a Teeme-a tu Ooppunent's Cluck..."
+
+msgid "Add New Group"
+msgstr "Edd Noo Gruoop"
+
+msgid "Add New Status"
+msgstr "Edd Noo Stetoos"
+
+msgid "Add New Status..."
+msgstr "Edd Noo Stetoos. Um gesh dee bork, bork!.."
+
+msgid "Add Status..."
+msgstr "Edd Stetoos. Um gesh dee bork, bork!.."
+
+msgid "Add to Favorites"
+msgstr "Edd tu Fefureetes"
+
+msgid "Add to Friends"
+msgstr "Edd tu Freeends"
+
+msgid "Add"
+msgstr "Edd"
+
+msgid "Additional Info"
+msgstr "Eddeeshunel Inffu"
+
+msgid "Adjourn request cancel request sent."
+msgstr "Edjuoorn reqooest cuncel reqooest sent. Um de hur de hur de hur."
+
+msgid "Adjourn request cancelled."
+msgstr "Edjuoorn reqooest cuncelled. Bork bork bork!"
+
+msgid "Adjourn request declined."
+msgstr "Edjuoorn reqooest decleened. Bork bork bork!"
+
+msgid "Adjourned Games (%1)"
+msgstr "Edjuoorned Gemes (%1)"
+
+msgid "Adjourned Games"
+msgstr "Edjuoorned Gemes"
+
+msgid "Admin"
+msgstr "Edmeen"
+
+msgid "Advanced Search Options"
+msgstr "Edfunced Seerch Oopshuns"
+
+msgid "affiliation"
+msgstr "effffeelieshun"
+
+msgid "Align board with top of screen, instead of top of roster"
+msgstr "Eleegn buerd veet tup ooff screee, insteed ooff tup ooff ruster"
+
+msgid "Announcement from %1"
+msgstr "Unnuooncement frum %1"
+
+msgid "Any Opponent"
+msgstr "Uny Ooppunent"
+
+msgid "Any Pairing"
+msgstr "Uny Peureeng"
+
+msgid "Any Rating"
+msgstr "Uny Reteeng"
+
+msgid "Any Time Limit"
+msgstr "Uny Teeme-a Leemit"
+
+msgid "Any Variant"
+msgstr "Uny Fereeunt"
+
+msgid "April"
+msgstr "Epreel"
+
+msgid "Are you sure that you want to permanently remove your Game Ad for %1?"
+msgstr "Ere-a yuoo soore-a thet yuoo vunt tu permunently remufe-a yuoor Geme-a Ed fur %1?"
+
+msgid "Are you sure that you want to remove ^b%1^b from your Friends List?"
+msgstr "Ere-a yuoo soore-a thet yuoo vunt tu remufe-a %1 frum yuoor Freeends Leest?"
+
+msgid "Are you sure that you wish to permanently remove this Game Ad?"
+msgstr "Ere-a yuoo soore-a thet yuoo veesh tu permunently remufe-a thees Geme-a Ed?"
+
+msgid "Are you sure you want to logout?"
+msgstr "Ere-a yuoo soore-a yuoo vunt tu luguoot?"
+
+msgid "As this is a correspondence game, there may not be a response for some time."
+msgstr "Es thees is a currespundence-a geme-a, zeere-a mey nut be-a a respunse-a fur sume-a teeme-a."
+
+msgid "At Least"
+msgstr "Et Leest"
+
+msgid "At Most"
+msgstr "Et Must"
+
+msgid "Atomic"
+msgstr "Etumeec"
+
+msgid "August"
+msgstr "Oogoost"
+
+msgid "Authenticating..."
+msgstr "Oozeenteeceting..."
+
+msgid "Authentication failed."
+msgstr "Oozeenteeceshun feeeled. Bork bork bork!"
+
+msgid "Authorization Request"
+msgstr "Oothureezeshun Reqooest"
+
+msgid "Auto-approve friend requests"
+msgstr "Ootu-epprufe-a freeend reqooests"
+
+msgid "Auto-response: I am away from my computer."
+msgstr "Ootu-respunse-a: I em evey frum my cumpooter. Hurty flurty schnipp schnipp!"
+
+msgid "Auto-response: I am away from my computer: %1"
+msgstr "Ootu-respunse-a: I em evey frum my cumpooter: %1"
+
+msgid "Automatic away after"
+msgstr "Ootumeteec evey effter"
+
+msgid "Available"
+msgstr "Efeeeleble-a"
+
+msgid "Avatar Menu"
+msgstr "Efeter Menoo"
+
+msgid "Awaiting response from %1..."
+msgstr "Eveeeting respunse-a frum %1..."
+
+msgid "Away"
+msgstr "Evey"
+
+msgid "Back"
+msgstr "Beck"
+
+msgid "Bad Password."
+msgstr "Bed Pessvurd. Bork bork bork!"
+
+msgid "Bad request."
+msgstr "Bed reqooest. Um de hur de hur de hur."
+
+msgid "Ban from Room"
+msgstr "Bun frum Ruum"
+
+msgid "Banned Users"
+msgstr "Bunned Uusers"
+
+msgid "Best"
+msgstr "Best-a"
+
+msgid "Between"
+msgstr "Betveee"
+
+msgid "Bishop"
+msgstr "Beeshup"
+
+msgid "Black time remaining: %1"
+msgstr "Bleck teeme-a remeeening: %1"
+
+msgid "Black uses same settings as white."
+msgstr "Bleck uses seme-a setteengs es vheete-a."
+
+msgid "Black"
+msgstr "Bleck"
+
+msgid "Blitz"
+msgstr "Bleetz"
+
+msgid "Board Options"
+msgstr "Buerd Oopshuns"
+
+msgid "Board Size"
+msgstr "Buerd Seeze-a"
+
+msgid "Broadcast Message"
+msgstr "Bruedcest Messege-a"
+
+msgid "Bullet"
+msgstr "Boollet"
+
+msgid "By upgrading to the latest version of the native client, you gain access to the newest features of the Chesspark services and benefit from the fresh stability fixes from our software team."
+msgstr "By upgredeeng tu zee letest ferseeun ooff zee neteefe-a cleeent, yuoo geeen eccess tu zee nooest feetoores ooff zee Chessperk serfeeces und beneffeet frum zee fresh stebeelity feexes frum oooor sufftvere-a teem."
+
+msgid "Can't connect to server"
+msgstr "Cun't cunnect tu serfer"
+
+msgid "Can't connect."
+msgstr "Cun't cunnect. Um de hur de hur de hur."
+
+msgid "Cancel Request"
+msgstr "Cuncel Reqooest"
+
+msgid "Cancel"
+msgstr "Cuncel"
+
+msgid "Cannot ban"
+msgstr "Cunnut bun"
+
+msgid "Cannot kick"
+msgstr "Cunnut keeck"
+
+msgid "Cannot revoke admin from owner"
+msgstr "Cunnut refuke-a edmeen frum oovner"
+
+msgid "Cannot revoke admin"
+msgstr "Cunnut refuke-a edmeen"
+
+msgid "Cannot revoke moderator"
+msgstr "Cunnut refuke-a muderetur"
+
+msgid "Cannot revoke owner"
+msgstr "Cunnut refuke-a oovner"
+
+msgid "Cannot revoke voice from moderator"
+msgstr "Cunnut refuke-a fueece-a frum muderetur"
+
+msgid "Cannot revoke voice"
+msgstr "Cunnut refuke-a fueece-a"
+
+msgid "Category"
+msgstr "Cetegury"
+
+msgid "Change Chat Topic..."
+msgstr "Chunge-a Chet Tupeec..."
+
+msgid "Change Game Terms"
+msgstr "Chunge-a Geme-a Terms"
+
+msgid "Change room topic"
+msgstr "Chunge-a ruum tupeec"
+
+msgid "Change Terms"
+msgstr "Chunge-a Terms"
+
+msgid "Change User"
+msgstr "Chunge-a User"
+
+msgid "Change User..."
+msgstr "Chunge-a User. Hurty flurty schnipp schnipp!.."
+
+msgid "Chat Autojoin"
+msgstr "Chet Ootujueen"
+
+msgid "Chat Favorites"
+msgstr "Chet Fefureetes"
+
+msgid "Chat Options"
+msgstr "Chet Oopshuns"
+
+msgid "Chat Options..."
+msgstr "Chet Oopshuns. Um gesh dee bork, bork!.."
+
+msgid "Chatroom"
+msgstr "Chetruum"
+
+msgid "Chatting with %1 %2"
+msgstr "Chetteeng veet %1 %2"
+
+msgid "Chatting with %1"
+msgstr "Chetteeng veet %1"
+
+msgid "Check your connection and ensure your username is not misspelled"
+msgstr "Check yuoor cunnecshun und insoore-a yuoor userneme-a is nut meesspelled"
+
+msgid "Check your password and make sure caps lock isn't on."
+msgstr "Check yuoor pessvurd und meke-a soore-a ceps luck isn't oon. Bork bork bork!"
+
+msgid "Checkmate."
+msgstr "Checkmete-a."
+
+msgid "Chess"
+msgstr "Chess"
+
+msgid "Chesspark Chat"
+msgstr "Chessperk Chet"
+
+msgid "Chesspark logins exceeded"
+msgstr "Chessperk lugeens ixceeded"
+
+msgid "Chesspark membership not found!"
+msgstr "Chessperk membersheep nut fuoond!"
+
+msgid "Chesspark Options..."
+msgstr "Chessperk Oopshuns. Um gesh dee bork, bork!.."
+
+msgid "Chesspark Role"
+msgstr "Chessperk Rule-a"
+
+msgid "Chesspark Webclient"
+msgstr "Chessperk Vebcleeent"
+
+msgid "Chesspark will match you with a random opponent."
+msgstr "Chessperk veell metch yuoo veet a rundum ooppunent. Um de hur de hur de hur."
+
+msgid "Chesspark"
+msgstr "Chessperk"
+
+msgid "Clear all fields"
+msgstr "Cleer ell feeelds"
+
+msgid "Clear All Images"
+msgstr "Cleer Ell Imeges"
+
+msgid "Clear Move"
+msgstr "Cleer Mufe-a"
+
+msgid "Clear your search"
+msgstr "Cleer yuoor seerch"
+
+msgid "Clear"
+msgstr "Cleer"
+
+msgid "Click ^lhere^l or visit ^l%1^l to upgrade."
+msgstr "Cleeck ^lhere-a^l oor feesit ^l%1^l tu upgrede-a."
+
+msgid "Click ^lhere^l to join this chat."
+msgstr "Cleeck ^lhere-a^l tu jueen thees chet. Um de hur de hur de hur."
+
+msgid "Click ^lhere^l to log in again."
+msgstr "Cleeck ^lhere-a^l tu lug in egeeen. Bork bork bork!"
+
+msgid "Click ^lhere^l to open game#%1"
+msgstr "Cleeck ^lhere-a^l tu oopee geme-a#%1"
+
+msgid "Click ^lhere^l to open the board."
+msgstr "Cleeck ^lhere-a^l tu oopee zee buerd. Bork bork bork!"
+
+msgid "Click ^lhere^l to view them in your roster."
+msgstr "Cleeck ^lhere-a^l tu feeoo zeem in yuoor ruster. Hurty flurty schnipp schnipp!"
+
+msgid "Click ^lhere^l to watch this game."
+msgstr "Cleeck ^lhere-a^l tu vetch thees geme-a."
+
+msgid "Click to minimize"
+msgstr "Cleeck tu meenimize-a"
+
+msgid "Click"
+msgstr "Cleeck"
+
+msgid "Close Game"
+msgstr "Cluse-a Geme-a"
+
+msgid "Close"
+msgstr "Cluse-a"
+
+msgid "Command not found."
+msgstr "Cummund nut fuoond. Bork bork bork!"
+
+msgid "Comment"
+msgstr "Cumment"
+
+msgid "(completed)"
+msgstr "(completed-a)"
+
+msgid "Confirm Replace"
+msgstr "Cunffurm Replece-a"
+
+msgid "Connecting to Chesspark..."
+msgstr "Cunnecteeng tu Chessperk..."
+
+msgid "Connecting..."
+msgstr "Cunnecteeng..."
+
+msgid "contact"
+msgstr "cuntect"
+
+msgid "Copy"
+msgstr "Cupy"
+
+msgid "Correspondence game accepted."
+msgstr "Currespundence-a geme-a eccepted. Bork bork bork!"
+
+msgid "Correspondence game with %1 has started!"
+msgstr "Currespundence-a geme-a veet %1 hes sterted!"
+
+msgid "Correspondence Games (%1)"
+msgstr "Currespundence-a Gemes (%1)"
+
+msgid "Correspondence Games"
+msgstr "Currespundence-a Gemes"
+
+msgid "Correspondence"
+msgstr "Currespundence-a"
+
+msgid "Create New Game Ad"
+msgstr "Creete-a Noo Geme-a Ed"
+
+msgid "Current Pairings"
+msgstr "Coorrent Peureengs"
+
+msgid "Current score: %1 to %2"
+msgstr "Coorrent scure-a: %1 tu %2"
+
+msgid "Current version: %1 build %2"
+msgstr "Coorrent ferseeun: %1 booeeld %2"
+
+msgid "Currently %1 games being played."
+msgstr "Coorrently %1 gemes beeeng pleyed. Bork bork bork!"
+
+msgid "Custom time controls"
+msgstr "Coostum teeme-a cuntruls"
+
+msgid "Custom Time Settings"
+msgstr "Coostum Teeme-a Setteengs"
+
+msgid "Custom..."
+msgstr "Coostum..."
+
+msgid "Cut"
+msgstr "Coot"
+
+msgid "days"
+msgstr "deys"
+
+msgid "Debug Window"
+msgstr "Deboog Veendoo"
+
+msgid "December"
+msgstr "December"
+
+msgid "Decline Game"
+msgstr "Decleene-a Geme-a"
+
+msgid "Decline"
+msgstr "Decleene-a"
+
+msgid "Delay causes the clocks to wait briefly before ticking. Increment adds time at the end of each move."
+msgstr "Deley cooses zee clucks tu veeet breeeffly beffure-a teecking. Increment edds teeme-a et zee ind ooff iech mufe-a."
+
+msgid "Delay"
+msgstr "Deley"
+
+msgid "Delete"
+msgstr "Delete-a"
+
+msgid "Description"
+msgstr "Descreepshun"
+
+msgid "Desired Opponent"
+msgstr "Desured Ooppunent"
+
+msgid "Did you forget to enter a password?"
+msgstr "Deed yuoo furget tu inter a pessvurd?"
+
+msgid "Did you forget to enter a username?"
+msgstr "Deed yuoo furget tu inter a userneme-a?"
+
+msgid "Did you remember the @chesspark bit?"
+msgstr "Deed yuoo remember zee @chessperk beet?"
+
+msgid "Disconnect Confirmation"
+msgstr "Deescunnect Cunffurmeshun"
+
+msgid "Disconnect when logged in from another location"
+msgstr "Deescunnect vhee lugged in frum unuzeer luceshun"
+
+msgid "Disconnected from server."
+msgstr "Deescunnected frum serfer. Hurty flurty schnipp schnipp!"
+
+msgid "Disconnected"
+msgstr "Deescunnected"
+
+msgid "Disconnected."
+msgstr "Deescunnected. Bork bork bork!"
+
+msgid "Disconnected: %1"
+msgstr "Deescunnected: %1"
+
+msgid "Do you ^laccept^l or ^ldecline^l?"
+msgstr "Du yuoo ^leccept^l oor ^ldecleene-a^l?"
+
+msgid "Do you accept?"
+msgstr "Du yuoo eccept?"
+
+msgid "Do you want to remove the group, or the group and its contents?"
+msgstr "Du yuoo vunt tu remufe-a zee gruoop, oor zee gruoop und its cuntents?"
+
+msgid "Don't alert on new chat messages"
+msgstr "Dun't elert oon noo chet messeges"
+
+msgid "Don't alert on new game invite"
+msgstr "Dun't elert oon noo geme-a infeete-a"
+
+msgid "Don't have an account? Click here."
+msgstr "Dun't hefe-a un eccuoont? Cleeck here-a."
+
+msgid "Don't Remove"
+msgstr "Dun't Remufe-a"
+
+msgid "Don't see what you're looking for? Try searching the Chesspark Game Ads..."
+msgstr "Dun't see-a vhet yuoo're-a luukeeng fur? Try seercheeng zee Chessperk Geme-a Eds. Um gesh dee bork, bork!.."
+
+msgid "Draw cancel request sent."
+msgstr "Drev cuncel reqooest sent. Um de hur de hur de hur."
+
+msgid "Draw request cancel request sent."
+msgstr "Drev reqooest cuncel reqooest sent. Um de hur de hur de hur."
+
+msgid "Draw request declined."
+msgstr "Drev reqooest decleened. Bork bork bork!"
+
+msgid "Draw request rejected. ^lOpen game %1^l"
+msgstr "Drev reqooest rejected. Bork bork bork! ^lOpee geme-a %1^l"
+
+msgid "Draw request rejected."
+msgstr "Drev reqooest rejected. Bork bork bork!"
+
+msgid "Draw request was cancelled."
+msgstr "Drev reqooest ves cuncelled. Bork bork bork!"
+
+msgid "Duration"
+msgstr "Dooreshun"
+
+msgid "Edit Ban List..."
+msgstr "Ideet Bun Leest. Um de hur de hur de hur..."
+
+msgid "Edit Game Ad"
+msgstr "Ideet Geme-a Ed"
+
+msgid "Edit My Statuses"
+msgstr "Ideet My Stetooses"
+
+msgid "Edit My Statuses..."
+msgstr "Ideet My Stetooses. Um gesh dee bork, bork!.."
+
+msgid "Edit Saved Custom Time Controls"
+msgstr "Ideet Sefed Coostum Teeme-a Cuntruls"
+
+msgid "Edit Saved Custom Times"
+msgstr "Ideet Sefed Coostum Teemes"
+
+msgid "Enter a name"
+msgstr "Inter a neme-a"
+
+msgid "Enter any other comments or additional information you would like to include in the Game Ad."
+msgstr "Inter uny oozeer cumments oor eddeeshunel inffurmeshun yuoo vuoold leeke-a tu incloode-a in zee Geme-a Ed. Bork bork bork!"
+
+msgid "Enter any other comments you would like your opponent to see."
+msgstr "Inter uny oozeer cumments yuoo vuoold leeke-a yuoor ooppunent tu see-a."
+
+msgid "Enter the new topic here"
+msgstr "Inter zee noo tupeec here-a"
+
+msgid "Error"
+msgstr "Irrur"
+
+msgid "Error: %1 is already playing."
+msgstr "Irrur: %1 is elreedy pleyeeng."
+
+msgid "Error: %1 is not logged in to Chesspark."
+msgstr "Irrur: %1 is nut lugged in tu Chessperk."
+
+msgid "Error: An unknown error occurred. Please try again, and if this problem persists, contact Chesspark support."
+msgstr "Irrur: Un unknoon irrur ooccoorred. Bork bork bork! Pleese-a try egeeen, und iff thees prublem perseests, cuntect Chessperk sooppurt. Um de hur de hur de hur."
+
+msgid "Error: Authentication failed.  Please try again."
+msgstr "Irrur: Oozeenteeceshun feeeled. Bork bork bork! Pleese-a try egeeen. Bork bork bork!"
+
+msgid "Error: Disconnected."
+msgstr "Irrur: Deescunnected. Bork bork bork!"
+
+msgid "Error: Feature not implemented."
+msgstr "Irrur: Feetoore-a nut implemented. Bork bork bork!"
+
+msgid "Error: Internal server error."
+msgstr "Irrur: Internel serfer irrur. Hurty flurty schnipp schnipp!"
+
+msgid "Error: Nickname in use. Please choose another."
+msgstr "Irrur: Neeckneme-a in use-a. Pleese-a chuuse-a unuzeer. Hurty flurty schnipp schnipp!"
+
+msgid "Error: Not authorized"
+msgstr "Irrur: Nut oothureezed"
+
+msgid "Error: Password required."
+msgstr "Irrur: Pessvurd reqooured. Bork bork bork!"
+
+msgid "Error: Payment required."
+msgstr "Irrur: Peyment reqooured. Bork bork bork!"
+
+msgid "Error: Remote connection failed. Please check your username and try again."
+msgstr "Irrur: Remute-a cunnecshun feeeled. Bork bork bork! Pleese-a check yuoor userneme-a und try egeeen. Bork bork bork!"
+
+msgid "Error: Remote server error."
+msgstr "Irrur: Remute-a serfer irrur. Hurty flurty schnipp schnipp!"
+
+msgid "Error: Remote server timeout."
+msgstr "Irrur: Remute-a serfer teemeuoot. Um de hur de hur de hur."
+
+msgid "Error: Request Timeout."
+msgstr "Irrur: Reqooest Teemeuoot. Um de hur de hur de hur."
+
+msgid "Error: Reserved roomnick must be used."
+msgstr "Irrur: Reserfed ruumneeck moost be-a used. Bork bork bork!"
+
+msgid "Error: Room creation is restricted."
+msgstr "Irrur: Ruum creeshun is restreected. Bork bork bork!"
+
+msgid "Error: Room not found."
+msgstr "Irrur: Ruum nut fuoond. Bork bork bork!"
+
+msgid "Error: Service unavailable."
+msgstr "Irrur: Serfeece-a unefeeeleble-a."
+
+msgid "Error: Unexpected error!  Notify administrator."
+msgstr "Irrur: Unexpected irrur! Nuteeffy edmeenistretur. Hurty flurty schnipp schnipp!"
+
+msgid "Error: User's subscription has expired."
+msgstr "Irrur: User's soobscreepshun hes ixpured. Bork bork bork!"
+
+msgid "Error: Username must be a valid JID.  For example, garry@chesspark.com."
+msgstr "Irrur: Userneme-a moost be-a a feleed JID. Fur ixemple-a, gerry@chessperk.cum."
+
+msgid "Error: You are already playing a game."
+msgstr "Irrur: Yuoo ere-a elreedy pleyeeng a geme-a."
+
+msgid "Error: You have been logged out due to a second login attempt from the same JID and resource."
+msgstr "Irrur: Yuoo hefe-a beee lugged oooot dooe-a tu a secund lugeen ettempt frum zee seme-a JID und resuoorce-a."
+
+msgid "Error: You must provide a non-empty password."
+msgstr "Irrur: Yuoo moost prufeede-a a nun-impty pessvurd. Bork bork bork!"
+
+msgid "Est. Game Time: %1"
+msgstr "Est. Um de hur de hur de hur. Geme-a Teeme-a: %1"
+
+msgid "Est. time"
+msgstr "Ist. Um de hur de hur de hur. teeme-a"
+
+msgid "Every capture takes out all non-pawns in a 3x3 square."
+msgstr "Ifery ceptoore-a tekes oooot ell nun-pevns in a 3x3 sqooere-a."
+
+msgid "Favorites"
+msgstr "Fefureetes"
+
+msgid "February"
+msgstr "Febrooery"
+
+msgid "Filter who can respond to your ad."
+msgstr "Feelter vhu cun respund tu yuoor ed. Bork bork bork!"
+
+msgid "Find a game to play or a game to watch by searching Chesspark Game Ads."
+msgstr "Feend a geme-a tu pley oor a geme-a tu vetch by seercheeng Chessperk Geme-a Eds. Um gesh dee bork, bork!"
+
+msgid "Find Another Game"
+msgstr "Feend Unuzeer Geme-a"
+
+msgid "Finished loading chatrooms"
+msgstr "Feenished luedeeng chetruums"
+
+msgid "First round begins in %1"
+msgstr "Furst ruoond begeens in %1"
+
+msgid "Flip Board"
+msgstr "Fleep Buerd"
+
+msgid "For example: ChessFan or roboknight@chesspark.com"
+msgstr "Fur ixemple-a: ChessFun oor rubukneeght@chessperk.cum"
+
+msgid "For example: Jane Doe, Chessfan1000"
+msgstr "Fur ixemple-a: June-a Due-a, Chessffun1000"
+
+msgid "For example: name@jabber.org, chessfan@chesspark.com"
+msgstr "Fur ixemple-a: neme-a@jebber. Hurty flurty schnipp schnipp!oorg, chessffun@chessperk.cum"
+
+msgid "Forfeit Game"
+msgstr "Furffeeet Geme-a"
+
+msgid "Forfeit Tournament"
+msgstr "Furffeeet Tuoornement"
+
+msgid "Friends List"
+msgstr "Freeends Leest"
+
+msgid "Game %1"
+msgstr "Geme-a %1"
+
+msgid "Game aborted."
+msgstr "Geme-a eburted. Bork bork bork!"
+
+msgid "Game Accepted"
+msgstr "Geme-a Eccepted"
+
+msgid "Game accepted. Joining..."
+msgstr "Geme-a eccepted. Bork bork bork! Jueening..."
+
+msgid "Game adjourned."
+msgstr "Geme-a edjuoorned. Bork bork bork!"
+
+msgid "Game Comments"
+msgstr "Geme-a Cumments"
+
+msgid "Game Declined"
+msgstr "Geme-a Decleened"
+
+msgid "Game Ends"
+msgstr "Geme-a Inds"
+
+msgid "Game has been adjourned."
+msgstr "Geme-a hes beee edjuoorned. Bork bork bork!"
+
+msgid "Game in %1"
+msgstr "Geme-a in %1"
+
+msgid "Game in progress. ^lWatch game %1.^l"
+msgstr "Geme-a in prugress. Um gesh dee bork, bork! ^lVetch geme-a %1.^l"
+
+msgid "Game Info"
+msgstr "Geme-a Inffu"
+
+msgid "Game Invitation From %1"
+msgstr "Geme-a Infeeteshun Frum %1"
+
+msgid "Game invite accepted. Please wait..."
+msgstr "Geme-a infeete-a eccepted. Bork bork bork! Pleese-a veeet. Um de hur de hur de hur..."
+
+msgid "Game invite cancelled"
+msgstr "Geme-a infeete-a cuncelled"
+
+msgid "Game invite cancelled."
+msgstr "Geme-a infeete-a cuncelled. Bork bork bork!"
+
+msgid "Game Invite From %1"
+msgstr "Geme-a Infeete-a Frum %1"
+
+msgid "Game is a draw."
+msgstr "Geme-a is a drev."
+
+msgid "Game Menu"
+msgstr "Geme-a Menoo"
+
+msgid "Game not yet started."
+msgstr "Geme-a nut yet sterted. Bork bork bork!"
+
+msgid "Game Options"
+msgstr "Geme-a Oopshuns"
+
+msgid "Game Over"
+msgstr "Geme-a Oofer"
+
+msgid "Game Over.  Winner is %1."
+msgstr "Geme-a Oofer. Hurty flurty schnipp schnipp! Veenner is %1."
+
+msgid "Game over."
+msgstr "Geme-a oofer. Hurty flurty schnipp schnipp!"
+
+msgid "Game reconvene error!"
+msgstr "Geme-a recunfene-a irrur!"
+
+msgid "Game Reconvene From %1"
+msgstr "Geme-a Recunfene-a Frum %1"
+
+msgid "Game Renegotiation From %1"
+msgstr "Geme-a Reneguteeeshun Frum %1"
+
+msgid "Game Renegotiation To %1"
+msgstr "Geme-a Reneguteeeshun Tu %1"
+
+msgid "Game request cancelled."
+msgstr "Geme-a reqooest cuncelled. Bork bork bork!"
+
+msgid "Game request declined."
+msgstr "Geme-a reqooest decleened. Bork bork bork!"
+
+msgid "Game request sent. Please wait."
+msgstr "Geme-a reqooest sent. Um de hur de hur de hur. Pleese-a veeet. Um de hur de hur de hur."
+
+msgid "Game request sent. Please wait..."
+msgstr "Geme-a reqooest sent. Um de hur de hur de hur. Pleese-a veeet. Um de hur de hur de hur..."
+
+msgid "Game Status"
+msgstr "Geme-a Stetoos"
+
+msgid "Game Variant"
+msgstr "Geme-a Fereeunt"
+
+msgid "Game"
+msgstr "Geme-a"
+
+msgid "Games to Play"
+msgstr "Gemes tu Pley"
+
+msgid "Games to Watch"
+msgstr "Gemes tu Vetch"
+
+msgid "Games"
+msgstr "Gemes"
+
+msgid "General Options"
+msgstr "Generel Oopshuns"
+
+msgid "Give Admin Status"
+msgstr "Geefe-a Edmeen Stetoos"
+
+msgid "Give Moderator Status"
+msgstr "Geefe-a Muderetur Stetoos"
+
+msgid "Give Owner Status"
+msgstr "Geefe-a Oovner Stetoos"
+
+msgid "Give Voice Privilege"
+msgstr "Geefe-a Fueece-a Preefilege-a"
+
+msgid "Give voice"
+msgstr "Geefe-a fueece-a"
+
+msgid "Go Offline"
+msgstr "Gu Ooffffleene-a"
+
+msgid "Got a bye."
+msgstr "Gut a bye-a."
+
+msgid "Group & Contents"
+msgstr "Gruoop & Cuntents"
+
+msgid "Group Name"
+msgstr "Gruoop Neme-a"
+
+msgid "Group"
+msgstr "Gruoop"
+
+msgid "Have games come to you! Place a Game Ad if you want to play a specific variant or against a certain skill level."
+msgstr "Hefe-a gemes cume-a tu yuoo! Plece-a a Geme-a Ed iff yuoo vunt tu pley a speceeffic fereeunt oor egeeenst a certeeen skeell lefel."
+
+msgid "helper"
+msgstr "helper"
+
+msgid "Hide participants list by default"
+msgstr "Heede-a perteecipunts leest by deffoolt"
+
+msgid "Home"
+msgstr "Hume-a"
+
+msgid "Idle"
+msgstr "Idle-a"
+
+msgid "If you are unable to log out your other locations, try contacting a staff member for assistance."
+msgstr "Iff yuoo ere-a uneble-a tu lug oooot yuoor oozeer luceshuns, try cuntecteeng a steffff member fur esseestunce-a."
+
+msgid "If you're new here, you may want to try ^lPlay Now^l."
+msgstr "Iff yuoo're-a noo here-a, yuoo mey vunt tu try ^lPley Noo^l."
+
+msgid "Image Files (*.jpg;*.gif;*.png)"
+msgstr "Imege-a Feeles (*.jpg;*.geeff;*.png)"
+
+msgid "Include Computer Opponents"
+msgstr "Incloode-a Cumpooter Ooppunents"
+
+msgid "Increment"
+msgstr "Increment"
+
+msgid "Information about %1"
+msgstr "Inffurmeshun ebuoot %1"
+
+msgid "Invite %1 To Game"
+msgstr "Infeete-a %1 Tu Geme-a"
+
+msgid "Invite %1 to watch:"
+msgstr "Infeete-a %1 tu vetch:"
+
+msgid "Invite Friend to Chat"
+msgstr "Infeete-a Freeend tu Chet"
+
+msgid "Invite Someone to this Chat..."
+msgstr "Infeete-a Sumeune-a tu thees Chet. Um de hur de hur de hur..."
+
+msgid "Invite to Chesspark..."
+msgstr "Infeete-a tu Chessperk..."
+
+msgid "Invite to Correspondence Game..."
+msgstr "Infeete-a tu Currespundence-a Geme-a..."
+
+msgid "Invite to Game"
+msgstr "Infeete-a tu Geme-a"
+
+msgid "Invite to Game..."
+msgstr "Infeete-a tu Geme-a..."
+
+msgid "It's your opponent's turn.  You'll be notified when it's complete."
+msgstr "It's yuoor ooppunent's toorn. Bork bork bork! Yuoo'll be-a nuteeffied vhee it's cumplete-a."
+
+msgid "It's your turn.  Make a move, then press send move."
+msgstr "It's yuoor toorn. Bork bork bork! Meke-a a mufe-a, zeen press send mufe-a."
+
+msgid "Jabber ID"
+msgstr "Jebber ID"
+
+msgid "January"
+msgstr "Junooery"
+
+msgid "JID"
+msgstr "JID"
+
+msgid "Join Chat on Login"
+msgstr "Jueen Chet oon Lugeen"
+
+msgid "Join Chat Room on login"
+msgstr "Jueen Chet Ruum oon lugeen"
+
+msgid "Join Chat Room"
+msgstr "Jueen Chet Ruum"
+
+msgid "Join Chat Room..."
+msgstr "Jueen Chet Ruum..."
+
+msgid "Join Tournament"
+msgstr "Jueen Tuoornement"
+
+msgid "July"
+msgstr "Jooly"
+
+msgid "June"
+msgstr "Joone-a"
+
+msgid "Kick from Room"
+msgstr "Keeck frum Ruum"
+
+msgid "Knight"
+msgstr "Kneeght"
+
+msgid "Large"
+msgstr "Lerge-a"
+
+msgid "Last move %1"
+msgstr "Lest mufe-a %1"
+
+msgid "Last move was yours, %1"
+msgstr "Lest mufe-a ves yuoors, %1"
+
+msgid "Latest version: %1 %2 build %3"
+msgstr "Letest ferseeun: %1 %2 booeeld %3"
+
+msgid "Learn More..."
+msgstr "Leern Mure-a..."
+
+msgid "Leave Tournament"
+msgstr "Leefe-a Tuoornement"
+
+msgid "left in game"
+msgstr "lefft in geme-a"
+
+msgid "Limit high %1"
+msgstr "Leemit heegh %1"
+
+msgid "Limit low %1"
+msgstr "Leemit loo %1"
+
+msgid "Log In"
+msgstr "Lug In"
+
+msgid "Log Out"
+msgstr "Lug Oooot"
+
+msgid "Logged out of Chesspark!"
+msgstr "Lugged oooot ooff Chessperk!"
+
+msgid "Long (about 30m)"
+msgstr "Lung (ebuoot 30m)"
+
+msgid "Long"
+msgstr "Lung"
+
+msgid "Look for tournaments to watch or play in."
+msgstr "Luuk fur tuoornements tu vetch oor pley in. Bork bork bork!"
+
+msgid "Lost connection."
+msgstr "Lust cunnecshun."
+
+msgid "Manage Custom Controls..."
+msgstr "Munege-a Coostum Cuntruls. Um gesh dee bork, bork!.."
+
+msgid "March"
+msgstr "Merch"
+
+msgid "Match Link"
+msgstr "Metch Leenk"
+
+msgid "Maximum login count exceeded."
+msgstr "Mexeemoom lugeen cuoont ixceeded. Bork bork bork!"
+
+msgid "May"
+msgstr "Mey"
+
+msgid "Member already playing a game"
+msgstr "Member elreedy pleyeeng a geme-a"
+
+msgid "Member already playing a game."
+msgstr "Member elreedy pleyeeng a geme-a."
+
+msgid "Member is offline."
+msgstr "Member is ooffffleene-a."
+
+msgid "Member is playing a game."
+msgstr "Member is pleyeeng a geme-a."
+
+msgid "Member not found."
+msgstr "Member nut fuoond. Bork bork bork!"
+
+msgid "Member offline."
+msgstr "Member ooffffleene-a."
+
+msgid "Message not sent"
+msgstr "Messege-a nut sent"
+
+msgid "minutes"
+msgstr "meenootes"
+
+msgid "moderator"
+msgstr "muderetur"
+
+msgid "More about %1"
+msgstr "Mure-a ebuoot %1"
+
+msgid "Move List"
+msgstr "Mufe-a Leest"
+
+msgid "Move: %1"
+msgstr "Mufe-a: %1"
+
+msgid "Moves"
+msgstr "Mufes"
+
+msgid "My Adjourned Games"
+msgstr "My Edjuoorned Gemes"
+
+msgid "My Correspondence Games"
+msgstr "My Currespundence-a Gemes"
+
+msgid "My Game Ads"
+msgstr "My Geme-a Eds"
+
+msgid "Name"
+msgstr "Neme-a"
+
+msgid "Need a name!"
+msgstr "Need a neme-a!"
+
+msgid "Need Help?"
+msgstr "Need Help?"
+
+msgid "New Chat Room"
+msgstr "Noo Chet Ruum"
+
+msgid "New Chat With Friend"
+msgstr "Noo Chet Veet Freeend"
+
+msgid "New Chat With Friend..."
+msgstr "Noo Chet Veet Freeend. Bork bork bork!.."
+
+msgid "New Game Ad..."
+msgstr "Noo Geme-a Ed. Bork bork bork!.."
+
+msgid "New Image..."
+msgstr "Noo Imege-a..."
+
+msgid "New Nickname"
+msgstr "Noo Neeckneme-a"
+
+msgid "New Status:"
+msgstr "Noo Stetoos:"
+
+msgid "New Topic"
+msgstr "Noo Tupeec"
+
+msgid "New Version of Chesspark Client Available"
+msgstr "Noo Ferseeun ooff Chessperk Cleeent Efeeeleble-a"
+
+msgid "nickname"
+msgstr "neeckneme-a"
+
+msgid "No error."
+msgstr "Nu irrur. Hurty flurty schnipp schnipp!"
+
+msgid "No pairings."
+msgstr "Nu peureengs. Um gesh dee bork, bork!"
+
+msgid "No players in this tournament."
+msgstr "Nu pleyers in thees tuoornement. Um de hur de hur de hur."
+
+msgid "No Preference"
+msgstr "Nu Prefference-a"
+
+msgid "No results found based on your game search."
+msgstr "Nu resoolts fuoond besed oon yuoor geme-a seerch."
+
+msgid "No results found based on your search."
+msgstr "Nu resoolts fuoond besed oon yuoor seerch."
+
+msgid "No Time Limit"
+msgstr "Nu Teeme-a Leemit"
+
+msgid "No winner."
+msgstr "Nu veenner. Hurty flurty schnipp schnipp!"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "No, I have no idea how this happened."
+msgstr "Nu, I hefe-a nu idea hoo thees heppened. Bork bork bork!"
+
+msgid "Normal"
+msgstr "Nurmel"
+
+msgid "Not logged in."
+msgstr "Nut lugged in. Bork bork bork!"
+
+msgid "Notification Options"
+msgstr "Nuteefficeshun Oopshuns"
+
+msgid "November"
+msgstr "Nufember"
+
+msgid "NOW!"
+msgstr "NOV!"
+
+msgid "observer"
+msgstr "oobserfer"
+
+msgid "Observers"
+msgstr "Oobserfers"
+
+msgid "Observing: %1 vs. %2"
+msgstr "Oobserfeeng: %1 fs. Um gesh dee bork, bork! %2"
+
+msgid "October"
+msgstr "Ooctuber"
+
+msgid "Offline"
+msgstr "Ooffffleene-a"
+
+msgid "OK"
+msgstr "OoK"
+
+msgid "One moment please..."
+msgstr "Oone-a mument pleese-a..."
+
+msgid "Online"
+msgstr "Oonleene-a"
+
+msgid "Only Rated Games"
+msgstr "Oonly Reted Gemes"
+
+msgid "Open Chat"
+msgstr "Oopee Chet"
+
+msgid "Opponent disconnected."
+msgstr "Ooppunent deescunnected. Bork bork bork!"
+
+msgid "Opponent"
+msgstr "Ooppunent"
+
+msgid "or"
+msgstr "oor"
+
+msgid "Other"
+msgstr "Oozeer"
+
+msgid "owner"
+msgstr "oovner"
+
+msgid "Participants"
+msgstr "Perteecipunts"
+
+msgid "Password"
+msgstr "Pessvurd"
+
+msgid "Paste"
+msgstr "Peste-a"
+
+msgid "Pending Approval"
+msgstr "Pendeeng Epprufel"
+
+msgid "Place a game ad?"
+msgstr "Plece-a a geme-a ed?"
+
+msgid "Place an Ad"
+msgstr "Plece-a un Ed"
+
+msgid "Play Now with %1"
+msgstr "Pley Noo veet %1"
+
+msgid "Play Now"
+msgstr "Pley Noo"
+
+msgid "Play to lose your pieces!"
+msgstr "Pley tu luse-a yuoor peeeces!"
+
+msgid "Players"
+msgstr "Pleyers"
+
+msgid "Playing"
+msgstr "Pleyeeng"
+
+msgid "Playing: %1"
+msgstr "Pleyeeng: %1"
+
+msgid "Please enter a room name."
+msgstr "Pleese-a inter a ruum neme-a."
+
+msgid "Please try again later"
+msgstr "Pleese-a try egeeen leter"
+
+msgid "Please try again when you are finished."
+msgstr "Pleese-a try egeeen vhee yuoo ere-a feenished. Bork bork bork!"
+
+msgid "Pop In"
+msgstr "Pup In"
+
+msgid "Pop Out"
+msgstr "Pup Oooot"
+
+msgid "Preferences Menu"
+msgstr "Prefferences Menoo"
+
+msgid "Preferences"
+msgstr "Prefferences"
+
+msgid "Presence Menu"
+msgstr "Presence-a Menoo"
+
+msgid "Profile"
+msgstr "Pruffeele-a"
+
+msgid "Public Chat Rooms"
+msgstr "Poobleec Chet Ruums"
+
+msgid "Queen"
+msgstr "Qooeee"
+
+msgid "Quit Chesspark"
+msgstr "Qooeet Chessperk"
+
+msgid "Random arrangement of pieces, 960 possible combinations"
+msgstr "Rundum errungement ooff peeeces, 960 pusseeble-a cumbeeneshuns"
+
+msgid "Rated Game"
+msgstr "Reted Geme-a"
+
+msgid "Rated"
+msgstr "Reted"
+
+msgid "Rating for %1 games: %2"
+msgstr "Reteeng fur %1 gemes: %2"
+
+msgid "Rating"
+msgstr "Reteeng"
+
+msgid "Ratings"
+msgstr "Reteengs"
+
+msgid "Reconnect cancelled."
+msgstr "Recunnect cuncelled. Bork bork bork!"
+
+msgid "Reconnect"
+msgstr "Recunnect"
+
+msgid "Reconnected."
+msgstr "Recunnected. Bork bork bork!"
+
+msgid "Reconnecting to network..."
+msgstr "Recunnecteeng tu netvurk..."
+
+msgid "Refresh timed out!"
+msgstr "Reffresh teemed oooot!"
+
+msgid "Refresh"
+msgstr "Reffresh"
+
+msgid "Refreshing..."
+msgstr "Reffresheeng..."
+
+msgid "Rematch declined."
+msgstr "Remetch decleened. Bork bork bork!"
+
+msgid "Rematch error: %s"
+msgstr "Remetch irrur: %s"
+
+msgid "Rematch request sent.  Hang on a sec."
+msgstr "Remetch reqooest sent. Um de hur de hur de hur. Hung oon a sec."
+
+msgid "Rematch request sent."
+msgstr "Remetch reqooest sent. Um de hur de hur de hur."
+
+msgid "Rematch?"
+msgstr "Remetch?"
+
+msgid "Remember me"
+msgstr "Remember me-a"
+
+msgid "Remember Username"
+msgstr "Remember Userneme-a"
+
+msgid "Reminder: Players do not receive observer messages, only other observers do."
+msgstr "Remeender: Pleyers du nut receeefe-a oobserfer messeges, oonly oozeer oobserfers du."
+
+msgid "Remove %1 from Friends List?"
+msgstr "Remufe-a %1 frum Freeends Leest?"
+
+msgid "Remove Friend"
+msgstr "Remufe-a Freeend"
+
+msgid "Remove from all groups"
+msgstr "Remufe-a frum ell gruoops"
+
+msgid "Remove from Favorites"
+msgstr "Remufe-a frum Fefureetes"
+
+msgid "Remove from this group"
+msgstr "Remufe-a frum thees gruoop"
+
+msgid "Remove Game Ad?"
+msgstr "Remufe-a Geme-a Ed?"
+
+msgid "Remove Group "
+msgstr "Remufe-a Gruoop "
+
+msgid "Remove Group"
+msgstr "Remufe-a Gruoop"
+
+msgid "Remove"
+msgstr "Remufe-a"
+
+msgid "Rename Group"
+msgstr "Reneme-a Gruoop"
+
+msgid "Rename Group..."
+msgstr "Reneme-a Gruoop..."
+
+msgid "Request a Draw"
+msgstr "Reqooest a Drev"
+
+msgid "Request a Move Take Back"
+msgstr "Reqooest a Mufe-a Teke-a Beck"
+
+msgid "Request Adjournment"
+msgstr "Reqooest Edjuoornment"
+
+msgid "Request Game Abort"
+msgstr "Reqooest Geme-a Eburt"
+
+msgid "Request Game"
+msgstr "Reqooest Geme-a"
+
+msgid "Request This Game"
+msgstr "Reqooest Thees Geme-a"
+
+msgid "Requesting preferences..."
+msgstr "Reqooesteeng prefferences. Um gesh dee bork, bork!.."
+
+msgid "Requesting roster..."
+msgstr "Reqooesteeng ruster. Hurty flurty schnipp schnipp!.."
+
+msgid "Resend Friend Request"
+msgstr "Resend Freeend Reqooest"
+
+msgid "Resend?"
+msgstr "Resend?"
+
+msgid "Reset Move"
+msgstr "Reset Mufe-a"
+
+msgid "Resign Game"
+msgstr "Reseegn Geme-a"
+
+msgid "Resign"
+msgstr "Reseegn"
+
+msgid "Resource conflict."
+msgstr "Resuoorce-a cunffleect. Um de hur de hur de hur."
+
+msgid "Respond To Game Ad by %1"
+msgstr "Respund Tu Geme-a Ed by %1"
+
+msgid "Resume Adjourned Game with %1"
+msgstr "Resoome-a Edjuoorned Geme-a veet %1"
+
+msgid "Resume Game"
+msgstr "Resoome-a Geme-a"
+
+msgid "Resume or forfeit your adjourned games from this list."
+msgstr "Resoome-a oor furffeeet yuoor edjuoorned gemes frum thees leest. Um de hur de hur de hur."
+
+msgid "Return"
+msgstr "Retoorn"
+
+msgid "Revoke Admin Status"
+msgstr "Refuke-a Edmeen Stetoos"
+
+msgid "Revoke Moderator Status"
+msgstr "Refuke-a Muderetur Stetoos"
+
+msgid "Revoke Owner Status"
+msgstr "Refuke-a Oovner Stetoos"
+
+msgid "Revoke Voice Privilege"
+msgstr "Refuke-a Fueece-a Preefilege-a"
+
+msgid "Revoke Voice"
+msgstr "Refuke-a Fueece-a"
+
+msgid "role"
+msgstr "rule-a"
+
+msgid "Roles"
+msgstr "Rules"
+
+msgid "Rook"
+msgstr "Ruuk"
+
+msgid "Room does not exist"
+msgstr "Ruum dues nut ixeest"
+
+msgid "Room Name"
+msgstr "Ruum Neme-a"
+
+msgid "Room names cannot have spaces!"
+msgstr "Ruum nemes cunnut hefe-a speces!"
+
+msgid "Rooms list not loaded"
+msgstr "Ruums leest nut lueded"
+
+msgid "Round %1 ended.  Next round begins in %2"
+msgstr "Ruoond %1 inded. Bork bork bork! Next ruoond begeens in %2"
+
+msgid "Round %1 ended."
+msgstr "Ruoond %1 inded. Bork bork bork!"
+
+msgid "Round %1 has begun!"
+msgstr "Ruoond %1 hes begoon!"
+
+msgid "Round %1 has ended."
+msgstr "Ruoond %1 hes inded. Bork bork bork!"
+
+msgid "Round %1 of %2, %3 games in play, %4 players"
+msgstr "Ruoond %1 ooff %2, %3 gemes in pley, %4 pleyers"
+
+msgid "Round"
+msgstr "Ruoond"
+
+msgid "Save Game As..."
+msgstr "Sefe-a Geme-a Es. Um gesh dee bork, bork!.."
+
+msgid "Save Game"
+msgstr "Sefe-a Geme-a"
+
+msgid "Save This Time Control As"
+msgstr "Sefe-a Thees Teeme-a Cuntrul Es"
+
+msgid "Save Time Control As"
+msgstr "Sefe-a Teeme-a Cuntrul Es"
+
+msgid "Save"
+msgstr "Sefe-a"
+
+msgid "Saved."
+msgstr "Sefed. Bork bork bork!"
+
+msgid "Saved..."
+msgstr "Sefed. Bork bork bork!.."
+
+msgid "Search again?"
+msgstr "Seerch egeeen?"
+
+msgid "Search for a game?"
+msgstr "Seerch fur a geme-a?"
+
+msgid "Search for Games"
+msgstr "Seerch fur Gemes"
+
+msgid "Search for Tournaments"
+msgstr "Seerch fur Tuoornements"
+
+msgid "Search for"
+msgstr "Seerch fur"
+
+msgid "Search Help..."
+msgstr "Seerch Help..."
+
+msgid "Search Results"
+msgstr "Seerch Resoolts"
+
+msgid "Search"
+msgstr "Seerch"
+
+msgid "Searching. Please wait..."
+msgstr "Seercheeng. Pleese-a veeet. Um de hur de hur de hur..."
+
+msgid "Searching..."
+msgstr "Seercheeng..."
+
+msgid "Select the side you would like to play."
+msgstr "Select zee seede-a yuoo vuoold leeke-a tu pley. Bork bork bork!"
+
+msgid "Send Message"
+msgstr "Send Messege-a"
+
+msgid "Send Message..."
+msgstr "Send Messege-a..."
+
+msgid "Send Move"
+msgstr "Send Mufe-a"
+
+msgid "September"
+msgstr "September"
+
+msgid "Set Round Start Time"
+msgstr "Set Ruoond Stert Teeme-a"
+
+msgid "Set the time limits for each side."
+msgstr "Set zee teeme-a leemits fur iech seede-a."
+
+msgid "Set Tournament Round Start Time"
+msgstr "Set Tuoornement Ruoond Stert Teeme-a"
+
+msgid "Shift+Enter starts a new line instead of sending"
+msgstr "Sheefft+Inter sterts a noo leene-a insteed ooff sendeeng"
+
+msgid "Show Debug Window"
+msgstr "Shoo Deboog Veendoo"
+
+msgid "Show Friend Avatars"
+msgstr "Shoo freeend efeters"
+
+msgid "Show Friend Groups"
+msgstr "Shoo Freeend Gruoops"
+
+msgid "Show Friends Tab"
+msgstr "Shoo Freeends Teb"
+
+msgid "Show Games Tab"
+msgstr "Shoo Gemes Teb"
+
+msgid "Always show join/part notices in chat rooms"
+msgstr "Elveys shoo jueen/pert nuteeces in chet ruums"
+
+msgid "Show Move List"
+msgstr "Shoo Mufe-a Leest"
+
+msgid "Show Offline Friends"
+msgstr "Shoo ooffffleene-a freeends"
+
+msgid "Show Participants"
+msgstr "Shoo Perteecipunts"
+
+msgid "Show Rooms Tab"
+msgstr "Shoo Ruums Teb"
+
+msgid "Side"
+msgstr "Seede-a"
+
+msgid "Small"
+msgstr "Smell"
+
+msgid "Sorry, no public chat rooms match what you've entered."
+msgstr "Surry, nu poobleec chet ruums metch vhet yuoo'fe-a intered. Bork bork bork!"
+
+msgid "Sort By:"
+msgstr "Surt By:"
+
+msgid "Speed"
+msgstr "Speed"
+
+msgid "staff"
+msgstr "steffff"
+
+msgid "Stalemate."
+msgstr "Stelemete-a."
+
+msgid "Standard chess, standard rules."
+msgstr "Stunderd chess, stunderd rooles. Um gesh dee bork, bork!"
+
+msgid "Standard"
+msgstr "Stunderd"
+
+msgid "Standings"
+msgstr "Stundeengs"
+
+msgid "Start a new chat room"
+msgstr "Stert a noo chet ruum"
+
+msgid "Start Next Round"
+msgstr "Stert Next Ruoond"
+
+msgid "Stats"
+msgstr "Stets"
+
+msgid "System Message"
+msgstr "System Messege-a"
+
+msgid "System"
+msgstr "System"
+
+msgid "That is not a valid jid!"
+msgstr "Thet is nut a feleed jeed!"
+
+msgid "That nickname already exists."
+msgstr "Thet neeckneme-a elreedy ixeests. Um gesh dee bork, bork!"
+
+msgid "The chat JID you entered appears to be malformed."
+msgstr "Zee chet JID yuoo intered eppeers tu be-a melffurmed. Bork bork bork!"
+
+msgid "The friend JID you entered appears to be malformed."
+msgstr "Zee freeend JID yuoo intered eppeers tu be-a melffurmed. Bork bork bork!"
+
+msgid "The JID you entered appears to be malformed."
+msgstr "Zee JID yuoo intered eppeers tu be-a melffurmed. Bork bork bork!"
+
+msgid "The password field is blank."
+msgstr "Zee pessvurd feeeld is blunk."
+
+msgid "The players have agreed that this game is a draw."
+msgstr "Zee pleyers hefe-a egreed thet thees geme-a is a drev."
+
+msgid "The players have agreed to adjourn this game."
+msgstr "Zee pleyers hefe-a egreed tu edjuoorn thees geme-a."
+
+msgid "The username and/or password aren't correct."
+msgstr "Zee userneme-a und/oor pessvurd eren't currect. Um de hur de hur de hur."
+
+msgid "The username field is blank."
+msgstr "Zee userneme-a feeeld is blunk."
+
+msgid "The username is not a valid JID."
+msgstr "Zee userneme-a is nut a feleed JID."
+
+msgid "There is an error in the game ad. Please check your ad and time settings and try again."
+msgstr "Zeere-a is un irrur in zee geme-a ed. Bork bork bork! Pleese-a check yuoor ed und teeme-a setteengs und try egeeen. Bork bork bork!"
+
+msgid "This is how your friend will be shown on your friends list."
+msgstr "Thees is hoo yuoor freeend veell be-a shoon oon yuoor freeends leest. Um de hur de hur de hur."
+
+msgid "This is the chatroom your friend will be invited to."
+msgstr "Thees is zee chetruum yuoor freeend veell be-a infeeted tu."
+
+msgid "This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)"
+msgstr "Thees prudooct incloodes cryptugrepheec sufftvere-a vreettee by Ireec Yuoong (iey@cryptsufft. Um de hur de hur de hur.cum)"
+
+msgid "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org)"
+msgstr "Thees prudooct incloodes sufftvere-a defeluped by zee OopenSSL Pruject fur use-a in zee OopenSSL Tuulkeet (http://vvv.oopenssl.oorg)"
+
+msgid "Time Setting"
+msgstr "Teeme-a Setteeng"
+
+msgid "Time Settings"
+msgstr "Teeme-a Setteengs"
+
+msgid "Time."
+msgstr "Teeme-a."
+
+msgid "Titles"
+msgstr "Teetles"
+
+msgid "To join, click ^lhere^l or visit ^lhttp://chesspark.com^l."
+msgstr "Tu jueen, cleeck ^lhere-a^l oor feesit ^lhttp://chessperk.cum^l."
+
+msgid "Toggle Chat"
+msgstr "Tuggle-a Chet"
+
+msgid "Total"
+msgstr "Tutel"
+
+msgid "Tournament is over, winner is %1!"
+msgstr "Tuoornement is oofer, veenner is %1!"
+
+msgid "Tournament over!"
+msgstr "Tuoornement oofer!"
+
+msgid "Tournament Room"
+msgstr "Tuoornement Ruum"
+
+msgid "Tournament Search Help..."
+msgstr "Tuoornement Seerch Help..."
+
+msgid "Tournament"
+msgstr "Tuoornement"
+
+msgid "Tournament: %1"
+msgstr "Tuoornement: %1"
+
+msgid "Tournaments to Play"
+msgstr "Tuoornements tu Pley"
+
+msgid "Tournaments to Watch"
+msgstr "Tuoornements tu Vetch"
+
+msgid "Tournaments"
+msgstr "Tuoornements"
+
+msgid "Try contacting a staff member for assistance."
+msgstr "Try cuntecteeng a steffff member fur esseestunce-a."
+
+msgid "Type"
+msgstr "Type-a"
+
+msgid "typing"
+msgstr "typeeng"
+
+msgid "Unknown error %1"
+msgstr "Unknoon irrur %1"
+
+msgid "Unknown search."
+msgstr "Unknoon seerch."
+
+msgid "Unknown"
+msgstr "Unknoon"
+
+msgid "Unknown."
+msgstr "Unknoon. Bork bork bork!"
+
+msgid "Unrated Game"
+msgstr "Unreted Geme-a"
+
+msgid "Unrated games will not modify your rating."
+msgstr "Unreted gemes veell nut mudeeffy yuoor reteeng."
+
+msgid "Unrated"
+msgstr "Unreted"
+
+msgid "Updated %1 ago"
+msgstr "Updeted %1 egu"
+
+msgid "Usage: %1"
+msgstr "Usege-a: %1"
+
+msgid "Use delay instead of increment."
+msgstr "Use-a deley insteed ooff increment. Um de hur de hur de hur."
+
+msgid "Use increment instead of delay."
+msgstr "Use-a increment insteed ooff deley. Bork bork bork!"
+
+msgid "User is offline"
+msgstr "User is ooffffleene-a"
+
+msgid "Username"
+msgstr "Userneme-a"
+
+msgid "Variant"
+msgstr "Fereeunt"
+
+msgid "Variants are modifications of the standard chess rules."
+msgstr "Fereeunts ere-a mudeefficeshuns ooff zee stunderd chess rooles. Um gesh dee bork, bork!"
+
+msgid "Version %1, Build %2"
+msgstr "Ferseeun %1, Booeeld %2"
+
+msgid "View and play your long-term games from this list."
+msgstr "Feeoo und pley yuoor lung-term gemes frum thees leest. Um de hur de hur de hur."
+
+msgid "View Info"
+msgstr "Feeoo Inffu"
+
+msgid "View Info..."
+msgstr "Feeoo Inffu..."
+
+msgid "View Logs"
+msgstr "Feeoo Lugs"
+
+msgid "View or remove your existing Game Ads."
+msgstr "Feeoo oor remufe-a yuoor ixeesting Geme-a Eds. Um gesh dee bork, bork!"
+
+msgid "vs."
+msgstr "fs. Um gesh dee bork, bork!"
+
+msgid "Waiting for players, %1 games in play, %2 players"
+msgstr "Veeeting fur pleyers, %1 gemes in pley, %2 pleyers"
+
+msgid "Want to play some chess?  Join Chesspark!  Please visit http://www.chesspark.com/"
+msgstr "Vunt tu pley sume-a chess? Jueen Chessperk! Pleese-a feesit http://vvv.chessperk.cum/"
+
+msgid "Watching"
+msgstr "Vetcheeng"
+
+msgid "We're sorry, the server could not complete the request."
+msgstr "Ve're-a surry, zee serfer cuoold nut cumplete-a zee reqooest. Um de hur de hur de hur."
+
+msgid "We're sorry, there was an error with your request. Please try again."
+msgstr "Ve're-a surry, zeere-a ves un irrur veet yuoor reqooest. Um de hur de hur de hur. Pleese-a try egeeen. Bork bork bork!"
+
+msgid "We're supposed to be in beta still."
+msgstr "Ve're-a sooppused tu be-a in beta steell."
+
+msgid "Welcome to Chesspark!"
+msgstr "Velcume-a tu Chessperk!"
+
+msgid "Welcome to Chesspark"
+msgstr "Velcume-a tu Chessperk"
+
+msgid "White or Black"
+msgstr "Vheete-a oor Bleck"
+
+msgid "White time remaining: %1"
+msgstr "Vheete-a teeme-a remeeening: %1"
+
+msgid "White"
+msgstr "Vheete-a"
+
+msgid "Why upgrade?"
+msgstr "Vhy upgrede-a?"
+
+msgid "Written %1"
+msgstr "Vreettee %1"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "You already have a custom time control with this name.  Do you want to replace it?"
+msgstr "Yuoo elreedy hefe-a a coostum teeme-a cuntrul veet thees neme-a. Du yuoo vunt tu replece-a it?"
+
+msgid "You already have that nickname."
+msgstr "Yuoo elreedy hefe-a thet neeckneme-a."
+
+msgid "You appear to be logged into Chesspark from too many different places."
+msgstr "Yuoo eppeer tu be-a lugged intu Chessperk frum tuu muny deefffferent pleces. Um gesh dee bork, bork!"
+
+msgid "You appear to be running an old version of Chesspark."
+msgstr "Yuoo eppeer tu be-a roonneeng un oold ferseeun ooff Chessperk."
+
+msgid "You are banned in this chatroom!"
+msgstr "Yuoo ere-a bunned in thees chetruum!"
+
+msgid "You are currently playing a game."
+msgstr "Yuoo ere-a coorrently pleyeeng a geme-a."
+
+msgid "You are not on the member list"
+msgstr "Yuoo ere-a nut oon zee member leest"
+
+msgid "You are still playing a game.  Would you like to resign or return?"
+msgstr "Yuoo ere-a steell pleyeeng a geme-a. Vuoold yuoo leeke-a tu reseegn oor retoorn?"
+
+msgid "You can always re-create this Game Ad from the plus menu in the games list."
+msgstr "Yuoo cun elveys re-a-creete-a thees Geme-a Ed frum zee ploos menoo in zee gemes leest. Um de hur de hur de hur."
+
+msgid "You can't change your nickname in a chesspark room."
+msgstr "Yuoo cun't chunge-a yuoor neeckneme-a in a chessperk ruum."
+
+msgid "You currently have no adjourned games."
+msgstr "Yuoo coorrently hefe-a nu edjuoorned gemes. Um gesh dee bork, bork!"
+
+msgid "You currently have no correspondence games."
+msgstr "Yuoo coorrently hefe-a nu currespundence-a gemes. Um gesh dee bork, bork!"
+
+msgid "You currently have no game ads."
+msgstr "Yuoo coorrently hefe-a nu geme-a eds. Um gesh dee bork, bork!"
+
+msgid "You don't appear to have an account at Chesspark."
+msgstr "Yuoo dun't eppeer tu hefe-a un eccuoont et Chessperk."
+
+msgid "You have adjourned games to play!"
+msgstr "Yuoo hefe-a edjuoorned gemes tu pley!"
+
+msgid "You have agreed that this game is a draw."
+msgstr "Yuoo hefe-a egreed thet thees geme-a is a drev."
+
+msgid "You have been disconnected."
+msgstr "Yuoo hefe-a beee deescunnected. Bork bork bork!"
+
+msgid "You have been logged out of the Chesspark game server!"
+msgstr "Yuoo hefe-a beee lugged oooot ooff zee Chessperk geme-a serfer!"
+
+msgid "You have correspondence games to play!"
+msgstr "Yuoo hefe-a currespundence-a gemes tu pley!"
+
+msgid "You have declined your opponent's request for a draw."
+msgstr "Yuoo hefe-a decleened yuoor ooppunent's reqooest fur a drev."
+
+msgid "You have declined your opponent's request to adjourn."
+msgstr "Yuoo hefe-a decleened yuoor ooppunent's reqooest tu edjuoorn. Bork bork bork!"
+
+msgid "You have requested a draw."
+msgstr "Yuoo hefe-a reqooested a drev."
+
+msgid "You have requested to adjourn this game."
+msgstr "Yuoo hefe-a reqooested tu edjuoorn thees geme-a."
+
+msgid "You have resigned."
+msgstr "Yuoo hefe-a reseegned. Bork bork bork!"
+
+msgid "You lose."
+msgstr "Yuoo luse-a."
+
+msgid "You searched for a ^bgame to play:^b"
+msgstr "Yuoo seerched fur a ^bgeme-a tu pley:^b"
+
+msgid "You searched for a ^bgame to watch:^b"
+msgstr "Yuoo seerched fur a ^bgeme-a tu vetch:^b"
+
+msgid "You searched for a ^btournament:^b"
+msgstr "Yuoo seerched fur a ^btuoornement:^b"
+
+msgid "You will be able to chat, but unable to participate in games or tournaments without logging in again."
+msgstr "Yuoo veell be-a eble-a tu chet, boot uneble-a tu perteecipete-a in gemes oor tuoornements veethuoot luggeeng in egeeen. Bork bork bork!"
+
+msgid "You win."
+msgstr "Yuoo veen. Bork bork bork!"
+
+msgid "You're still playing!"
+msgstr "Yuoo're-a steell pleyeeng!"
+
+msgid "Your adjourned games"
+msgstr "Yuoor edjuoorned gemes"
+
+msgid "Your correspondence game request to %1 was accepted."
+msgstr "Yuoor currespundence-a geme-a reqooest tu %1 ves eccepted. Bork bork bork!"
+
+msgid "Your correspondence game request to %1 was declined."
+msgstr "Yuoor currespundence-a geme-a reqooest tu %1 ves decleened. Bork bork bork!"
+
+msgid "Your correspondence games:"
+msgstr "Yuoor currespundence-a gemes:"
+
+msgid "Your draw request was cancelled."
+msgstr "Yuoor drev reqooest ves cuncelled. Bork bork bork!"
+
+msgid "Your game ads:"
+msgstr "Yuoor geme-a eds:"
+
+msgid "Your game request was declined."
+msgstr "Yuoor geme-a reqooest ves decleened. Bork bork bork!"
+
+msgid "Your membership has expired."
+msgstr "Yuoor membersheep hes ixpured. Bork bork bork!"
+
+msgid "Your membership to Chesspark has expired!"
+msgstr "Yuoor membersheep tu Chessperk hes ixpured!"
+
+msgid "Your nickname is in use in this room.  Please type in another and press enter."
+msgstr "Yuoor neeckneme-a is in use-a in thees ruum. Pleese-a type-a in unuzeer und press inter. Hurty flurty schnipp schnipp!"
+
+msgid "Your opponent has accepted your request for a draw."
+msgstr "Yuoor ooppunent hes eccepted yuoor reqooest fur a drev."
+
+msgid "Your opponent has cancelled the draw request."
+msgstr "Yuoor ooppunent hes cuncelled zee drev reqooest. Um de hur de hur de hur."
+
+msgid "Your opponent has declined your request for a draw."
+msgstr "Yuoor ooppunent hes decleened yuoor reqooest fur a drev."
+
+msgid "Your opponent has declined your request to adjourn."
+msgstr "Yuoor ooppunent hes decleened yuoor reqooest tu edjuoorn. Bork bork bork!"
+
+msgid "Your opponent has requested a draw."
+msgstr "Yuoor ooppunent hes reqooested a drev."
+
+msgid "Your opponent has requested to adjourn the game."
+msgstr "Yuoor ooppunent hes reqooested tu edjuoorn zee geme-a."
+
+msgid "Your opponent has requested to adjourn."
+msgstr "Yuoor ooppunent hes reqooested tu edjuoorn. Bork bork bork!"
+
+msgid "Your opponent has resigned."
+msgstr "Yuoor ooppunent hes reseegned. Bork bork bork!"
+
+msgid "Your opponent requests a rematch."
+msgstr "Yuoor ooppunent reqooests a remetch."
+
+msgid "Your request has been sent to %1. Awaiting response..."
+msgstr "Yuoor reqooest hes beee sent tu %1. Eveeeting respunse-a..."
+
+msgid "Your request has been sent."
+msgstr "Yuoor reqooest hes beee sent. Um de hur de hur de hur."
+
+msgid "Your expired account will still let you chat with friends, but you won't be able to play or view games."
+msgstr "Yuoor ixpured eccuoont veell steell let yuoo chet veet freeends, boot yuoo vun't be-a eble-a tu pley oor feeoo gemes. Um gesh dee bork, bork!"
+
+msgid "Chesspark Account Expired"
+msgstr "Chessperk Eccuoont Ixpured"
+
+msgid "Show join/part notices when participants list is closed"
+msgstr "Shoo jueen/pert nuteeces vhee perteecipunts leest is clused"
+
+msgid "Don't show this again"
+msgstr "Dun't shoo thees egeeen"
+
+msgid "Don't show welcome dialog"
+msgstr "Dun't shoo velcume-a deeelug"
+
+msgid "Your opponent has agreed to adjourn this game."
+msgstr "Yuoor ooppunent hes egreed tu edjuoorn thees geme-a."
+
+msgid "You have agreed to adjourn this game."
+msgstr "Yuoo hefe-a egreed tu edjuoorn thees geme-a."
+
+msgid "New Message"
+msgstr "Noo Messege-a"
+
+msgid "Friend Request"
+msgstr "Freeend Reqooest"
+
+msgid "Game Request"
+msgstr "Geme-a Reqooest"
+
+msgid "%1 has entered the room."
+msgstr "%1 hes intered zee ruum."
+
+msgid "%1 has left the room."
+msgstr "%1 hes lefft zee ruum."
+
+msgid "Friends"
+msgstr "Freeends"
+
+msgid "Rooms"
+msgstr "Ruums"
+
+msgid "member"
+msgstr "member-a"
+

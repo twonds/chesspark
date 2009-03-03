@@ -1,0 +1,2198 @@
+# hu
+
+msgid "%1 (about %2)"
+msgstr "%1 (körülbelül %2)"
+
+msgid "%1 has forfeited the tournament."
+msgstr "%1 feladta a versenyt."
+
+msgid "%1 has invited you to chat in ^l%2^l"
+msgstr "%1 meghívott beszélgetni a ^lroom@chat.chesspark.com^l szobába."
+
+msgid "%1 has invited you to watch game ^l%2^l"
+msgstr "%1 meghívott, hogy nézd a játszmát."
+
+msgid "%1 has joined the tournament."
+msgstr "%1 benevezett a versenyre."
+
+msgid "%1 has left the tournament."
+msgstr "%1 feladta a versenyt."
+
+msgid "%1 has moved %2"
+msgstr "%1 lépése %2"
+
+msgid "%1 has moved, %2.  It is now your turn. ^lOpen game %3^l"
+msgstr "%1 lépése %2. Te jössz. ^lTöltsd be a %3.számú játszmát^l"
+
+msgid "%1 has requested a draw."
+msgstr "%1 döntetlent ajánlott."
+
+msgid "%1 has requested to adjourn the game."
+msgstr "%1 kéri, hogy halasszátok el a játszmát."
+
+msgid "%1 has resigned correspondence game #%2"
+msgstr "%1 feladta a %2. számú levelezési játszmát"
+
+msgid "%1 has resigned.  %2 wins."
+msgstr "%1 feladta a játszmát. %2 nyert."
+
+msgid "%1 has resigned."
+msgstr "%1 feladta a játszmát."
+
+msgid "%1 has set the topic to %2"
+msgstr "%1 beírta a témát: %2"
+
+msgid "%1 has taken back 1 move"
+msgstr "%1 visszalépett 1 lépést."
+
+msgid "%1 has taken back one move"
+msgstr "%1 visszalépett 1 lépést."
+
+msgid "%1 has won!"
+msgstr "%1 nyert!"
+
+msgid "%1 in %2, %3 in %4, SD in %5"
+msgstr "%1 %2 belül, %3 %4 belül, befejezés %5 belül."
+
+msgid "%1 in %2, SD in %3"
+msgstr "%2 alatt %1, %3 alatt SD"
+
+msgid "%1 is already playing a game"
+msgstr "%1 már játszik."
+
+msgid "%1 is offline."
+msgstr "%1 ki van jelentkezve a szerverről."
+
+msgid "%1 is playing a game."
+msgstr "%1 már játszik."
+
+msgid "%1 is playing:"
+msgstr "%1 játszik:"
+
+msgid "%1 is watching:"
+msgstr "%1 nézi:"
+
+msgid "%1 moves until next control"
+msgstr "%1 lépés van még a következő időellenőrzésig"
+
+msgid "%1 not logged in."
+msgstr "%1 nincs bejelentkezve."
+
+msgid "%1 offers a draw in game %2. ^lOpen game %2^l, ^laccept^l, or ^ldecline^l?"
+msgstr "%1 döntetlent ajánl, a %2.számú játszmában. ^lFolytatod a %2.számú jtszmát^l, ^lelfogadod^l, vagy  ^lelutasítod^l a döntetlen ajánlatot? "
+
+msgid "%1 room, %2 user"
+msgstr "%1 szoba, %2 felhasználó"
+
+msgid "%1 room, %2 users"
+msgstr "%1 szoba, %2 játékos"
+
+msgid "%1 rooms, %2 user"
+msgstr "%1 szoba, %2 felhasználó"
+
+msgid "%1 rooms, %2 users"
+msgstr "%1 szoba, %2 felhasználó"
+
+msgid "%1 vs. %2 - %3"
+msgstr "%1 ellen %2 - %3"
+
+msgid "%1 vs. %2 - %3%4 %5"
+msgstr "%1 ellen %2 - %3%4 %5"
+
+msgid "%1, %2, Manager: %3"
+msgstr "%1,%2, Igazgató: %3"
+
+msgid "%1 moves within %2 days"
+msgstr "%1 lépés %2 napon alatt"
+
+msgid "%s has moved, %s.  It is now your turn."
+msgstr "%s lépett, %s, Te jössz."
+
+msgid "1 move left in control"
+msgstr "1 lépés van az időellenőrzésig"
+
+msgid "1 move until next control"
+msgstr "1 lépés van a következő időellenőrzésig."
+
+msgid "^b%1^b would like to add you to their friends list."
+msgstr "^b%1^b hozzá szeretne adni téged a barátlistájához."
+
+msgid "^lOpen game %1^l or ^lResign Game %1^l"
+msgstr " ^lFolytatod a %1. játszmát^l vagy feladod a %1. játszmát^l "
+
+msgid "About Chesspark"
+msgstr "A Chessparkról"
+
+msgid "About Chesspark..."
+msgstr "A Chessparkról..."
+
+msgid "Accept Game"
+msgstr "Elfogadom"
+
+msgid "accept"
+msgstr "elfogadom"
+
+msgid "Add a friend"
+msgstr "Barát hozzáadása"
+
+msgid "Add Friend..."
+msgstr "Barát hozzáadása..."
+
+msgid "Add Group..."
+msgstr "Csoport hozzáadása"
+
+msgid "Add More Time to Opponent's Clock..."
+msgstr "Adj plussz időt az ellenfél órájához..."
+
+msgid "Add New Group"
+msgstr "Új Csoport Hozzáadása"
+
+msgid "Add New Status"
+msgstr "Új Állapot Hozzáadása"
+
+msgid "Add New Status..."
+msgstr "Új Állapot Hozzáadása..."
+
+msgid "Add Status..."
+msgstr "Állapot Hozzáadása..."
+
+msgid "Add to Favorites"
+msgstr "Hozzáadás a kedvencekhez"
+
+msgid "Add to Friends"
+msgstr "Hozzáadás a barátokhoz"
+
+msgid "Add"
+msgstr "Hozzáadás"
+
+msgid "Additional Info"
+msgstr "Plussz információ"
+
+msgid "Adjourn request cancel request sent."
+msgstr "A játszma elhalasztásánek a kérésének a visszavonása elküldve."
+
+msgid "Adjourn request cancelled."
+msgstr "A játszmahalasztás kérése visszavonva."
+
+msgid "Adjourn request declined."
+msgstr "Az ellenfeled elutasította a kérésedet, hogy elhalasszátok a játszmát."
+
+msgid "Adjourned Games (%1)"
+msgstr "Elhalasztott játszmák (%1)"
+
+msgid "Adjourned Games"
+msgstr "Függőjátszmák"
+
+msgid "Admin"
+msgstr "Adminisztrátor"
+
+msgid "Advanced Search Options"
+msgstr "Haladó keresési beállítások"
+
+msgid "affiliation"
+msgstr "ajánlás"
+
+msgid "Align board with top of screen, instead of top of roster"
+msgstr "Igazítsd a táblát a képernyő tetejéhez, a névsor teteje helyett!"
+
+msgid "Announcement from %1"
+msgstr "%1 Bejelentése"
+
+msgid "Any Opponent"
+msgstr "Bármilyen ellenfél"
+
+msgid "Any Pairing"
+msgstr "Bármilyen párosítás"
+
+msgid "Any Rating"
+msgstr "Minden pontszám"
+
+msgid "Any Time Limit"
+msgstr "Minden Időbeosztás"
+
+msgid "Any Variant"
+msgstr "Minden változat"
+
+msgid "April"
+msgstr "Április"
+
+msgid "Are you sure that you want to permanently remove your Game Ad for %1?"
+msgstr "Biztos vagy benne, hogy véglegesen el akarod távolítani a %1 játszmahírdetésedet?"
+
+msgid "Are you sure that you want to remove ^b%1^b from your Friends List?"
+msgstr "Biztos vagy benne, hogy ^b%1-t^b eltávólitod a barátlistáról?"
+
+msgid "Are you sure that you wish to permanently remove this Game Ad?"
+msgstr "Biztos vagy benne, hogy véglegesen el akarod távolítani ezt a játszmahírdetésed?"
+
+msgid "Are you sure you want to logout?"
+msgstr "Biztos vagy benne, hogy ki akarsz lépni?"
+
+msgid "As this is a correspondence game, there may not be a response for some time."
+msgstr "Mivel ez egy levelezési játszma, lehet, hogy az ellenfeled nem válaszol egy ideig."
+
+msgid "At Least"
+msgstr "Legalább"
+
+msgid "At Most"
+msgstr "legföljebb"
+
+msgid "Atomic"
+msgstr "Robbanó sakk"
+
+msgid "August"
+msgstr "Augusztus"
+
+msgid "Authenticating..."
+msgstr "Ellenőrzöm..."
+
+msgid "Authentication failed."
+msgstr "Hitelesítés sikertelen."
+
+msgid "Authorization Request"
+msgstr "Hitelesítési kérelem"
+
+msgid "Auto-approve friend requests"
+msgstr "Automatikus elfogadása, az új barátok, barátlistára való felvételének"
+
+msgid "Auto-response: I am away from my computer."
+msgstr "Automatikus válasz: Nem vagyok a számítógépnél."
+
+msgid "Auto-response: I am away from my computer: %1"
+msgstr "Automatikus válasz: Távol vagyok a számítógéptől: %1"
+
+msgid "Automatic away after"
+msgstr "Automatikus 'Nincs a gépnél' felírat"
+
+msgid "Available"
+msgstr "Elérhető"
+
+msgid "Avatar Menu"
+msgstr "Kép menü"
+
+msgid "Awaiting response from %1..."
+msgstr "%1 válaszára várunk..."
+
+msgid "Away"
+msgstr "Nincs a gépnél"
+
+msgid "Back"
+msgstr "Vissza"
+
+msgid "Bad Password."
+msgstr "Rossz jelszó."
+
+msgid "Bad request."
+msgstr "Rossz kérés."
+
+msgid "Ban from Room"
+msgstr "Eltávólítás a szobából"
+
+msgid "Banned Users"
+msgstr "Eltávolított felhasználók"
+
+msgid "Best"
+msgstr "Legjobb"
+
+msgid "Between"
+msgstr "Között"
+
+msgid "Bishop"
+msgstr "Futó"
+
+msgid "Black time remaining: %1"
+msgstr "%1 van hátra sötét gondolkozási idejéből."
+
+msgid "Black uses same settings as white."
+msgstr "Sötét és világos ugyanazokat a beállításokat használja."
+
+msgid "Black"
+msgstr "Sötét"
+
+msgid "Blitz"
+msgstr "Villám"
+
+msgid "Board Options"
+msgstr "Tábla beállítások"
+
+msgid "Board Size"
+msgstr "Tábla méret"
+
+msgid "Broadcast Message"
+msgstr "Szerver üzenet"
+
+msgid "Bullet"
+msgstr "1 perces"
+
+msgid "By upgrading to the latest version of the native client, you gain access to the newest features of the Chesspark services and benefit from the fresh stability fixes from our software team."
+msgstr "Ha frissíted a programot és letöltöd a legújabb változatot, tudod használni a Chesspark legújabb szolgáltatásait és lehetőségeit és élvezheted  a programozó csapatunk által írt stabilitás javítások előnyeit."
+
+msgid "Can't connect to server"
+msgstr "Nem tudok kapcsolódni a szerverhez."
+
+msgid "Can't connect."
+msgstr "Nem tudok kapcsolódni."
+
+msgid "Cancel Request"
+msgstr "Vissazvonom a kérést."
+
+msgid "Cancel"
+msgstr "Elhalaszt"
+
+msgid "Cannot ban"
+msgstr "Nem tudom eltávolítani."
+
+msgid "Cannot kick"
+msgstr "Nem tudom kirúgni"
+
+msgid "Cannot revoke admin from owner"
+msgstr "Nem lehet visszavonni az admin minősítést a tulajdonostól."
+
+msgid "Cannot revoke admin"
+msgstr "Nem lehetséges visszavonni az admin jogkört."
+
+msgid "Cannot revoke moderator"
+msgstr "Nem lehet visszavenni a moderátortól a címét"
+
+msgid "Cannot revoke owner"
+msgstr "Nem lehet visszavenni a tulajdonostól a címét"
+
+msgid "Cannot revoke voice from moderator"
+msgstr "Nem lehet visszavonni a hangot a moderátortól."
+
+msgid "Cannot revoke voice"
+msgstr "Nem lehetéges a hang engedélyt visszavenni."
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Change Chat Topic..."
+msgstr "A chat téma megváltoztatása..."
+
+msgid "Change Game Terms"
+msgstr "A játszma feltételeinek megváltoztatása"
+
+msgid "Change room topic"
+msgstr "A szoba témájának megváltoztatása..."
+
+msgid "Change Terms"
+msgstr "Más feltételekkel"
+
+msgid "Change User"
+msgstr "Felhasználó változtatás"
+
+msgid "Change User..."
+msgstr "Felhasználó változtatás..."
+
+msgid "Chat Autojoin"
+msgstr "Automatikus csatlakozás a chathez"
+
+msgid "Chat Favorites"
+msgstr "Chat kedvencek"
+
+msgid "Chat Options"
+msgstr "Chat beállítások"
+
+msgid "Chat Options..."
+msgstr "Chat beállítások..."
+
+msgid "Chatroom"
+msgstr "Chatszoba"
+
+msgid "Chatting with %1 %2"
+msgstr "Beszélgetés: %1, %2"
+
+msgid "Chatting with %1"
+msgstr "Beszélgetés: %1"
+
+msgid "Check your connection and ensure your username is not misspelled"
+msgstr "Kérlek ellenőrizd az internetkapcsolatodat és győződj meg róla, hogy a felhasználóneved jól írtad be!"
+
+msgid "Check your password and make sure caps lock isn't on."
+msgstr "Kérlek ellenőrizd a jelszót és győződj meg róla, hogy a caps lock nincs bekapcsolva!"
+
+msgid "Checkmate."
+msgstr "Sakkmatt."
+
+msgid "Chess"
+msgstr "Sakk"
+
+msgid "Chesspark Chat"
+msgstr "Chesspark Chat"
+
+msgid "Chesspark logins exceeded"
+msgstr "A belépések a Chessparkba felülmúlták"
+
+msgid "Chesspark membership not found!"
+msgstr "Chesspark tagságod nem találom."
+
+msgid "Chesspark Options..."
+msgstr "Chesspark beállítások..."
+
+msgid "Chesspark Role"
+msgstr "Chesspark szerep"
+
+msgid "Chesspark Webclient"
+msgstr "Chesspark webkliens"
+
+msgid "Chesspark will match you with a random opponent."
+msgstr "Chesspark talál neked egy váletlenszerűen kiválasztott ellenfelet."
+
+msgid "Chesspark"
+msgstr "Chesspark"
+
+msgid "Clear all fields"
+msgstr "Törölj ki minden mezőt!"
+
+msgid "Clear All Images"
+msgstr "Törölj minden képet!"
+
+msgid "Clear Move"
+msgstr "Töröld a lépést!"
+
+msgid "Clear your search"
+msgstr "Törölj minden keresési paramétert!"
+
+msgid "Clear"
+msgstr "Törölj!"
+
+msgid "Click ^lhere^l or visit ^l%1^l to upgrade."
+msgstr "A frissítéshez kattints ^lide^l vagy látogass el a ^l%1^l oldalra."
+
+msgid "Click ^lhere^l to join this chat."
+msgstr "Kattints ^lide^l, ha chatelni akarsz!"
+
+msgid "Click ^lhere^l to log in again."
+msgstr "Klikkelj  ^lide^l, az újrakapcsolódáshoz!"
+
+msgid "Click ^lhere^l to open game#%1"
+msgstr "Kattints ^lide^l, hogy nézhesd a %1.számú játszmát!"
+
+msgid "Click ^lhere^l to open the board."
+msgstr "Kattints ^lide^l, a tábla kinyításához!"
+
+msgid "Click ^lhere^l to view them in your roster."
+msgstr "Kattints ^lide^l, hogy lásd őket a névsorodon!"
+
+msgid "Click ^lhere^l to watch this game."
+msgstr "Kattints ^lide^l, ha nézni akarod ezt a játszmát!"
+
+msgid "Click to minimize"
+msgstr "Klikkelj a minimalizáláshoz"
+
+msgid "Click"
+msgstr "Kattints"
+
+msgid "Close Game"
+msgstr "A játszma befejezése"
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "Command not found."
+msgstr "A parancsot nem találom."
+
+msgid "Comment"
+msgstr "Megjegyzés"
+
+msgid "(completed)"
+msgstr "(befejezve)"
+
+msgid "Confirm Replace"
+msgstr "Megerősítem a megváltoztatási szándékom"
+
+msgid "Connecting to Chesspark..."
+msgstr "Kapcsolódok a Chessparkhoz..."
+
+msgid "Connecting..."
+msgstr "Kapcsolódok..."
+
+msgid "contact"
+msgstr "kapcsolat"
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "Correspondence game accepted."
+msgstr "Levelezési játszma kihívásodat elfogadta az ellenfél."
+
+msgid "Correspondence game with %1 has started!"
+msgstr "A levelezési játszmád %1-mal elkezdődőtt!"
+
+msgid "Correspondence Games (%1)"
+msgstr "Levelezési játszmák (%1)"
+
+msgid "Correspondence Games"
+msgstr "Levelezési játszmák"
+
+msgid "Correspondence"
+msgstr "Levelezési"
+
+msgid "Create New Game Ad"
+msgstr "Új játszma hírdetés feladása"
+
+msgid "Current Pairings"
+msgstr "Jelenlegi párosítás"
+
+msgid "Current score: %1 to %2"
+msgstr "Jelenlegi állás: %1-%2"
+
+msgid "Current version: %1 build %2"
+msgstr "Jelenlegi változat: %1 build %2"
+
+msgid "Currently %1 games being played."
+msgstr "Most %1 partit játszanak."
+
+msgid "Custom time controls"
+msgstr "Szokásos Időbeosztások"
+
+msgid "Custom Time Settings"
+msgstr "Szokásos Időbeosztások"
+
+msgid "Custom..."
+msgstr "Szokásos..."
+
+msgid "Cut"
+msgstr "Kivágás"
+
+msgid "days"
+msgstr "nap"
+
+msgid "Debug Window"
+msgstr "Programjavító ablak"
+
+msgid "December"
+msgstr "December"
+
+msgid "Decline Game"
+msgstr "Elutasítom"
+
+msgid "Decline"
+msgstr "Elutasítás"
+
+msgid "Delay causes the clocks to wait briefly before ticking. Increment adds time at the end of each move."
+msgstr "Késleltetés alkalmazásakor az óra vár egy keveset mielött elkezd járni. A hozzáadás alkalmazásakor plussz időt kap a meglévő idejéhez, minden lépés megtétele után."
+
+msgid "Delay"
+msgstr "Késés"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Desired Opponent"
+msgstr "Megfelelő ellenfél"
+
+msgid "Did you forget to enter a password?"
+msgstr "Elfelejtetted beírni a jelszót?"
+
+msgid "Did you forget to enter a username?"
+msgstr "Elfelejtetted beírni a felhasználónevet?"
+
+msgid "Did you remember the @chesspark bit?"
+msgstr "Emlékeztél a '@chesspark' részre?"
+
+msgid "Disconnect Confirmation"
+msgstr "Szétkapcsolódás megerősítése"
+
+msgid "Disconnect when logged in from another location"
+msgstr "Lépj ki, ha másik helyről beléptek ezzel a felhasználónévvel"
+
+msgid "Disconnected from server."
+msgstr "A szerverrel megszakadt a kapcsolat."
+
+msgid "Disconnected"
+msgstr "Szétkapcsolódva"
+
+msgid "Disconnected."
+msgstr "Szétkapcsolódva."
+
+msgid "Disconnected: %1"
+msgstr "Szétkapcsolodva: %1"
+
+msgid "Do you ^laccept^l or ^ldecline^l?"
+msgstr "^lelfogadod^l vagy ^lelutasítod^l?"
+
+msgid "Do you accept?"
+msgstr "Elfogadod?"
+
+msgid "Do you want to remove the group, or the group and its contents?"
+msgstr "El akarod távolítani a csoportot vagy el akarod távolítani a csoportot és a tartalmát is?"
+
+msgid "Don't alert on new chat messages"
+msgstr "Ne figyelmeztess, amikor új chat üzeneteket kapok!"
+
+msgid "Don't alert on new game invite"
+msgstr "Ne figyelmeztess, amikor új kihívást kapok!"
+
+msgid "Don't have an account? Click here."
+msgstr "Nincs  regisztrált neved? Kattints ide!"
+
+msgid "Don't Remove"
+msgstr "Ne távolítsd el!"
+
+msgid "Don't see what you're looking for? Try searching the Chesspark Game Ads..."
+msgstr "Nem találod amit keresel? Keress a Chesspark játszma hírdetései között..."
+
+msgid "Draw cancel request sent."
+msgstr "A döntetlen ajánlat visszavonási kérelme elküdve."
+
+msgid "Draw request cancel request sent."
+msgstr "A döntetlen ajánlat visszavonásának a kérését elküdted."
+
+msgid "Draw request declined."
+msgstr "Döntetlen ajánlat elutasítva."
+
+msgid "Draw request rejected. ^lOpen game %1^l"
+msgstr "A döntetlen ajánlatot visszautasította az ellenfél. ^l%1.számú játszma folytatása^l"
+
+msgid "Draw request rejected."
+msgstr "Döntetlen ajánlat elutasítva."
+
+msgid "Draw request was cancelled."
+msgstr "Döntetlen ajánlat visszavonva."
+
+msgid "Duration"
+msgstr "Időtartam"
+
+msgid "Edit Ban List..."
+msgstr "Szerkeszd az eltávolítás listát..."
+
+msgid "Edit Game Ad"
+msgstr "Játszmahírdetés szerkesztése"
+
+msgid "Edit My Statuses"
+msgstr "Az állapotaim szerkesztése"
+
+msgid "Edit My Statuses..."
+msgstr "Állapotom beállítása..."
+
+msgid "Edit Saved Custom Time Controls"
+msgstr "Az elmentett szokásos időbeosztások szerkesztése"
+
+msgid "Edit Saved Custom Times"
+msgstr "Az elmentett szokásos idők szerkesztése"
+
+msgid "Enter a name"
+msgstr "Név beírása"
+
+msgid "Enter any other comments or additional information you would like to include in the Game Ad."
+msgstr "Ide írj be bármely más megjegyzést vagy információt ami hozzá szeretnél adni a játszmahírdetésedhez!"
+
+msgid "Enter any other comments you would like your opponent to see."
+msgstr "Írj be bármely megjegyzést, amit szeretnél ha az ellenfeled látna!"
+
+msgid "Enter the new topic here"
+msgstr "Írd be ide az új témát"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Error: %1 is already playing."
+msgstr "Hiba: %1 már játszik."
+
+msgid "Error: %1 is not logged in to Chesspark."
+msgstr "Hiba: %1 nincs csatlakozva a Chessparkhoz."
+
+msgid "Error: An unknown error occurred. Please try again, and if this problem persists, contact Chesspark support."
+msgstr "Hiba: Ismeretlen hiba. Kérlek próbáld meg újra és ha a hiba továbbra is fennáll, akkor lépj kapcsolatba a Chesspark segítőkkel."
+
+msgid "Error: Authentication failed.  Please try again."
+msgstr "Hiba: Hitelesítés sikertelen. Kérlek próbáld meg újra!"
+
+msgid "Error: Disconnected."
+msgstr "Hiba: Szétkacsolódva."
+
+msgid "Error: Feature not implemented."
+msgstr "Hiba: A szolgáltatás még nincs beépítve."
+
+msgid "Error: Internal server error."
+msgstr "Hiba: Belső szerver hiba."
+
+msgid "Error: Nickname in use. Please choose another."
+msgstr "Hiba: Ezt a becenevet, már valaki használja. Kérlek válassz másikat!"
+
+msgid "Error: Not authorized"
+msgstr "Hiba: Nincs hitelesítve"
+
+msgid "Error: Password required."
+msgstr "Hiba: Jelszó szükséges."
+
+msgid "Error: Payment required."
+msgstr "Hiba: Fizetés szükséges."
+
+msgid "Error: Remote connection failed. Please check your username and try again."
+msgstr "Hiba: Távoli kapcsolódásod sikertelen. Kérlek ellenőrizd le a felhasználóneved és próbáld meg újból."
+
+msgid "Error: Remote server error."
+msgstr "Hiba: Szerverhiba."
+
+msgid "Error: Remote server timeout."
+msgstr "Hiba: Távoli szerver időtúllépés."
+
+msgid "Error: Request Timeout."
+msgstr "Hiba: A kérésnek lejárt az ideje."
+
+msgid "Error: Reserved roomnick must be used."
+msgstr "Hiba: Lefoglalt szobanevet kell használni."
+
+msgid "Error: Room creation is restricted."
+msgstr "Hiba: A szoba létrehozása korlátozva van."
+
+msgid "Error: Room not found."
+msgstr "Hiba: A szobát nem találom."
+
+msgid "Error: Service unavailable."
+msgstr "Hiba: A szolgáltatás nem működik."
+
+msgid "Error: Unexpected error!  Notify administrator."
+msgstr "Hiba: Váratlan hiba! Kérlek jelezd egy adminisztrátornak!"
+
+msgid "Error: User's subscription has expired."
+msgstr "Hiba: A felhasználó előfizetése lejárt."
+
+msgid "Error: Username must be a valid JID.  For example, garry@chesspark.com."
+msgstr "Hiba: A felhasználónévnek egy érvényes Jabber azonosítónak kell lennie. Például, garry@chesspark.com"
+
+msgid "Error: You are already playing a game."
+msgstr "Hiba: Már játszol."
+
+msgid "Error: You have been logged out due to a second login attempt from the same JID and resource."
+msgstr "Hiba: Ki lettél léptetve a szerverről, mert ugyanezzel a Jabber azonosítóval történt egy második belépés."
+
+msgid "Error: You must provide a non-empty password."
+msgstr "Hiba: Legalább egy karakter szükséges a jelszóhoz."
+
+msgid "Est. Game Time: %1"
+msgstr "Becsült játszmahossz: %1"
+
+msgid "Est. time"
+msgstr "Keleti parti időzóna"
+
+msgid "Every capture takes out all non-pawns in a 3x3 square."
+msgstr "Minden ütés eltüntet minden figurát egy 3x3-as négyzetben, csak a gyalogok maradnak ott."
+
+msgid "Favorites"
+msgstr "Kedvencek"
+
+msgid "February"
+msgstr "Február"
+
+msgid "Filter who can respond to your ad."
+msgstr "Szürd meg, hogy ki válaszolhasson a játszmahírdetésre!"
+
+msgid "Find a game to play or a game to watch by searching Chesspark Game Ads."
+msgstr "Keress a Chesspark játszmahírdetései között, hogy találj egy meccset amit játszhatsz vagy egy meccset amit nézhetsz!"
+
+msgid "Find Another Game"
+msgstr "Találj másik játszmát"
+
+msgid "Finished loading chatrooms"
+msgstr "Befejezödött a chatszobák betöltése"
+
+msgid "First round begins in %1"
+msgstr "Az első forduló %1 múlva kezdődik."
+
+msgid "Flip Board"
+msgstr "Tábla megfordítása"
+
+msgid "For example: ChessFan or roboknight@chesspark.com"
+msgstr "Például: ChessFan or roboknight@chesspark.com"
+
+msgid "For example: Jane Doe, Chessfan1000"
+msgstr "Például: Jane Doe, Chessfan1000"
+
+msgid "For example: name@jabber.org, chessfan@chesspark.com"
+msgstr "Például: name@jabber.org, chessfan@chesspark.com"
+
+msgid "Forfeit Game"
+msgstr "Elvesztett játszma"
+
+msgid "Forfeit Tournament"
+msgstr "A verseny feladása"
+
+msgid "Friends List"
+msgstr "Barátlista"
+
+msgid "Game %1"
+msgstr "%1.játszma"
+
+msgid "Game aborted."
+msgstr "A játszma befejeződőtt."
+
+msgid "Game Accepted"
+msgstr "Játszma ajánlat elfogadva"
+
+msgid "Game accepted. Joining..."
+msgstr "Játszma ajánlat elfogadva. Csatlakozás..."
+
+msgid "Game adjourned."
+msgstr "Játszma elhalasztva."
+
+msgid "Game Comments"
+msgstr "Játszma hozzászolások"
+
+msgid "Game Declined"
+msgstr "A kihívást elutasította"
+
+msgid "Game Ends"
+msgstr "Játszma befejeződik"
+
+msgid "Game has been adjourned."
+msgstr "A játszma el van halasztva."
+
+msgid "Game in %1"
+msgstr "Játszma %1 múlva"
+
+msgid "Game in progress. ^lWatch game %1.^l"
+msgstr "A játszma folyik. ^l%1.számú játszma megtekintése.^l"
+
+msgid "Game Info"
+msgstr "Játszma információ"
+
+msgid "Game Invitation From %1"
+msgstr "%1 kihív egy játszmára"
+
+msgid "Game invite accepted. Please wait..."
+msgstr "A játszmakihívást elfogadta. Kérlek várj..."
+
+msgid "Game invite cancelled"
+msgstr "A kihívást visszavontad"
+
+msgid "Game invite cancelled."
+msgstr "Kihívás visszavonva."
+
+msgid "Game Invite From %1"
+msgstr "%1 kihív egy játszmára."
+
+msgid "Game is a draw."
+msgstr "A játszma döntetlen."
+
+msgid "Game Menu"
+msgstr "Játszma menü"
+
+msgid "Game not yet started."
+msgstr "A játszma még nem kezdődőtt el."
+
+msgid "Game Options"
+msgstr "Játszma beállítások"
+
+msgid "Game Over"
+msgstr "Vége a játszmának"
+
+msgid "Game Over.  Winner is %1."
+msgstr "A játszmának vége. %1 a győztes."
+
+msgid "Game over."
+msgstr "A játszmának vége."
+
+msgid "Game reconvene error!"
+msgstr "Hiba a játszma újrakezdése közben!"
+
+msgid "Game Reconvene From %1"
+msgstr "Elhalasztott játszma folytatása %1-mal"
+
+msgid "Game Renegotiation From %1"
+msgstr "Játszmafeltételek újratárgyalása %1-mal."
+
+msgid "Game Renegotiation To %1"
+msgstr "A %1 elleni játszma feltételeinek újratárgyalása"
+
+msgid "Game request cancelled."
+msgstr "A kihívást visszavontad."
+
+msgid "Game request declined."
+msgstr "A kihívásodat elutasították."
+
+msgid "Game request sent. Please wait."
+msgstr "A kihívást elküdted. Kérlek várj!"
+
+msgid "Game request sent. Please wait..."
+msgstr "Elküdted a kihívást. Kérlek várj..."
+
+msgid "Game Status"
+msgstr "A játszma állapota"
+
+msgid "Game Variant"
+msgstr "Játszma fajta"
+
+msgid "Game"
+msgstr "Játszma %1 ellen."
+
+msgid "Games to Play"
+msgstr "Lehetséges játszmák"
+
+msgid "Games to Watch"
+msgstr "Megnézhető játszmák"
+
+msgid "Games"
+msgstr "Játszmák"
+
+msgid "General Options"
+msgstr "Általános beállítások"
+
+msgid "Give Admin Status"
+msgstr "Adminisztrátor cím adása"
+
+msgid "Give Moderator Status"
+msgstr "Moderátor cím adása"
+
+msgid "Give Owner Status"
+msgstr "Tulajdonosi cím adása"
+
+msgid "Give Voice Privilege"
+msgstr "Hang adása"
+
+msgid "Give voice"
+msgstr "Hang adása"
+
+msgid "Go Offline"
+msgstr "Kilépés"
+
+msgid "Got a bye."
+msgstr "Erőnyerő pontot kaptál."
+
+msgid "Group & Contents"
+msgstr "Csoport és tartalmak"
+
+msgid "Group Name"
+msgstr "A csoport neve"
+
+msgid "Group"
+msgstr "Csoport"
+
+msgid "Have games come to you! Place a Game Ad if you want to play a specific variant or against a certain skill level."
+msgstr "A játszmaajánlatok házhoz jönnek! Helyezz el egy hírdetést, ha egy speciális sakkváltozatot  vagy meghatározott erősségű ellenfelek ellen szeretnél játszani."
+
+msgid "helper"
+msgstr "segítő"
+
+msgid "Hide participants list by default"
+msgstr "Rejtsd el a résztvevők listáját."
+
+msgid "Home"
+msgstr "Otthon"
+
+msgid "Idle"
+msgstr "Tétlen"
+
+msgid "If you are unable to log out your other locations, try contacting a staff member for assistance."
+msgstr "Ha nem tudsz kilépni a másik helyekről, próbálj kapcsolatba lépni egy stábtaggal, hogy segítsen."
+
+msgid "If you're new here, you may want to try ^lPlay Now^l."
+msgstr "Ha új játékos vagy itt, talán ki akarod próbálni ^lAzonnali játék^l."
+
+msgid "Image Files (*.jpg;*.gif;*.png)"
+msgstr "Kép fájlok (*.jpg;*.gif;*.png)"
+
+msgid "Include Computer Opponents"
+msgstr "Számítógép ellenfelek is"
+
+msgid "Increment"
+msgstr "hozzáadás"
+
+msgid "Information about %1"
+msgstr "%1 információi."
+
+msgid "Invite %1 To Game"
+msgstr "Hívd meg %1t egy játszmára!"
+
+msgid "Invite %1 to watch:"
+msgstr "%1-t meghívom nézőnek:"
+
+msgid "Invite Friend to Chat"
+msgstr "Hívd meg a barátot chatelni!"
+
+msgid "Invite Someone to this Chat..."
+msgstr "Meghívok valakit ebbe a chatbe..."
+
+msgid "Invite to Chesspark..."
+msgstr "Meghívás a Chessparkba..."
+
+msgid "Invite to Correspondence Game..."
+msgstr "Meghívás levelezési játszmára..."
+
+msgid "Invite to Game"
+msgstr "Meghívás egy játszmára"
+
+msgid "Invite to Game..."
+msgstr "Kihívás egy játszmára..."
+
+msgid "It's your opponent's turn.  You'll be notified when it's complete."
+msgstr "Ellenfeled jön lépni. Értesítést fogsz kapni, ha lépett."
+
+msgid "It's your turn.  Make a move, then press send move."
+msgstr "Te jössz. Tedd meg a lépést és utána kattints a lépésküldésre."
+
+msgid "Jabber ID"
+msgstr "Jabber azonosító"
+
+msgid "January"
+msgstr "Január"
+
+msgid "JID"
+msgstr "Jabber azonosító"
+
+msgid "Join Chat on Login"
+msgstr "Csatlakozz a chathez belépéskor"
+
+msgid "Join Chat Room on login"
+msgstr "Belépékor csatlakozás a chat szobához"
+
+msgid "Join Chat Room"
+msgstr "Lépj be a chatszobába"
+
+msgid "Join Chat Room..."
+msgstr "Csatlakozás a chat szobához..."
+
+msgid "Join Tournament"
+msgstr "Nevezz be a versenyre"
+
+msgid "July"
+msgstr "Július"
+
+msgid "June"
+msgstr "Június"
+
+msgid "Kick from Room"
+msgstr "Kirugás a szobából"
+
+msgid "Knight"
+msgstr "Huszár"
+
+msgid "Large"
+msgstr "Nagy"
+
+msgid "Last move %1"
+msgstr "Az utolsó lépés: %1"
+
+msgid "Last move was yours, %1"
+msgstr "A te lépésed volt az utolsó, %1"
+
+msgid "Latest version: %1 %2 build %3"
+msgstr "Legújabb változat: %1 %2 build %3"
+
+msgid "Learn More..."
+msgstr "További információ..."
+
+msgid "Leave Tournament"
+msgstr "Visszalépés a versenyről"
+
+msgid "left in game"
+msgstr "maradt a játszmára"
+
+msgid "Limit high %1"
+msgstr "Felső határ %1"
+
+msgid "Limit low %1"
+msgstr "A határ alacsony %1"
+
+msgid "Log In"
+msgstr "Belépés"
+
+msgid "Log Out"
+msgstr "Kilépés"
+
+msgid "Logged out of Chesspark!"
+msgstr "Kiléptél a Chessparkból!"
+
+msgid "Long (about 30m)"
+msgstr "Hosszú (kb. 30 perc)"
+
+msgid "Long"
+msgstr "Hosszú"
+
+msgid "Look for tournaments to watch or play in."
+msgstr "Keress versenyeket amiket nézhetek vagy amikben játszhatok!"
+
+msgid "Lost connection."
+msgstr "A kapcsolat megszakadt a szerverrel."
+
+msgid "Manage Custom Controls..."
+msgstr "Szokásos ellenőrzés rendezése..."
+
+msgid "March"
+msgstr "Március"
+
+msgid "Match Link"
+msgstr "Játszma link"
+
+msgid "Maximum login count exceeded."
+msgstr "Maximális belépési számot  felülmúltuk."
+
+msgid "May"
+msgstr "Május"
+
+msgid "Member already playing a game"
+msgstr "Már játszik."
+
+msgid "Member already playing a game."
+msgstr "Már játszik."
+
+msgid "Member is offline."
+msgstr "Nincs bejelentkezve."
+
+msgid "Member is playing a game."
+msgstr "Játszik."
+
+msgid "Member not found."
+msgstr "A játékost nem találom."
+
+msgid "Member offline."
+msgstr "A játékos nincs itt."
+
+msgid "Message not sent"
+msgstr "Az üzenet nincs elküldve"
+
+msgid "minutes"
+msgstr "perc"
+
+msgid "moderator"
+msgstr "moderátor"
+
+msgid "More about %1"
+msgstr "%1-Több információ"
+
+msgid "Move List"
+msgstr "Lépéslista"
+
+msgid "Move: %1"
+msgstr "%1. lépés"
+
+msgid "Moves"
+msgstr "Lépések"
+
+msgid "My Adjourned Games"
+msgstr "Elhalasztott játszmáim"
+
+msgid "My Correspondence Games"
+msgstr "Levelezési játszmáim"
+
+msgid "My Game Ads"
+msgstr "Játszma hírdetéseim"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Need a name!"
+msgstr "Szükség van egy névre!"
+
+msgid "Need Help?"
+msgstr "Segítsek?"
+
+msgid "New Chat Room"
+msgstr "Új chat szoba"
+
+msgid "New Chat With Friend"
+msgstr "Új chat a baráttal"
+
+msgid "New Chat With Friend..."
+msgstr "Új chat egy baráttal..."
+
+msgid "New Game Ad..."
+msgstr "Új játszma hírdetés..."
+
+msgid "New Image..."
+msgstr "Új Kép..."
+
+msgid "New Nickname"
+msgstr "Új Becenév"
+
+msgid "New Status:"
+msgstr "Új Állapot:"
+
+msgid "New Topic"
+msgstr "Új Téma"
+
+msgid "New Version of Chesspark Client Available"
+msgstr "A Chesspark program új változata letölthető"
+
+msgid "nickname"
+msgstr "becenév"
+
+msgid "No error."
+msgstr "Nincs hiba."
+
+msgid "No pairings."
+msgstr "Nincs párosítás."
+
+msgid "No players in this tournament."
+msgstr "Nincs játékos ebben a versenyben."
+
+msgid "No Preference"
+msgstr "Nincs kedvezmény"
+
+msgid "No results found based on your game search."
+msgstr "Nincs találat."
+
+msgid "No results found based on your search."
+msgstr "Nincs találat."
+
+msgid "No Time Limit"
+msgstr "Nincs időkorlát"
+
+msgid "No winner."
+msgstr "Nincs győztes."
+
+msgid "No"
+msgstr "Nem"
+
+msgid "No, I have no idea how this happened."
+msgstr "Nem, nincs ötletem hogyan történt."
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "Not logged in."
+msgstr "Nincs belépve."
+
+msgid "Notification Options"
+msgstr "Értesítési beállítások"
+
+msgid "November"
+msgstr "November"
+
+msgid "NOW!"
+msgstr "MOST!"
+
+msgid "observer"
+msgstr "néző"
+
+msgid "Observers"
+msgstr "Nézők"
+
+msgid "Observing: %1 vs. %2"
+msgstr "Nézi: %1 ellen %2"
+
+msgid "October"
+msgstr "Október"
+
+msgid "Offline"
+msgstr "Kilépve"
+
+msgid "OK"
+msgstr "Rendben"
+
+msgid "One moment please..."
+msgstr "Kis türelmet kérek..."
+
+msgid "Online"
+msgstr "itt van"
+
+msgid "Only Rated Games"
+msgstr "Csak pontszámra menő játszmák"
+
+msgid "Open Chat"
+msgstr "Chatelés"
+
+msgid "Opponent disconnected."
+msgstr "Az ellenfél lekapcsolódott a szerverről."
+
+msgid "Opponent"
+msgstr "Ellenfél"
+
+msgid "or"
+msgstr "vagy"
+
+msgid "Other"
+msgstr "Másik"
+
+msgid "owner"
+msgstr "tulajdonos"
+
+msgid "Participants"
+msgstr "Résztvevők"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Paste"
+msgstr "Beillesztés"
+
+msgid "Pending Approval"
+msgstr "Függőben lévő elfogadás"
+
+msgid "Place a game ad?"
+msgstr "Elhelyezel egy játszmahírdetést?"
+
+msgid "Place an Ad"
+msgstr "Hírdetés feladása"
+
+msgid "Play Now with %1"
+msgstr "Játszma %1 ellen."
+
+msgid "Play Now"
+msgstr "Azonnali játék"
+
+msgid "Play to lose your pieces!"
+msgstr "Úgy játssz, hogy az ellenfél leüsse az összes figurádat!"
+
+msgid "Players"
+msgstr "Játékosok"
+
+msgid "Playing"
+msgstr "Játszik"
+
+msgid "Playing: %1"
+msgstr "Játszik: %1"
+
+msgid "Please enter a room name."
+msgstr "Kérlek írj be egy szobanevet!"
+
+msgid "Please try again later"
+msgstr "Kérlek próbáld újra később"
+
+msgid "Please try again when you are finished."
+msgstr "Kérlek próbáld újra, amikor befejezted."
+
+msgid "Pop In"
+msgstr "Benéz"
+
+msgid "Pop Out"
+msgstr "Kipattan"
+
+msgid "Preferences Menu"
+msgstr "Beállítások menü"
+
+msgid "Preferences"
+msgstr "Beállítások"
+
+msgid "Presence Menu"
+msgstr "A menü megjelenése"
+
+msgid "Profile"
+msgstr "Bemutatkozás"
+
+msgid "Public Chat Rooms"
+msgstr "Nyílvános Chat Szobák"
+
+msgid "Queen"
+msgstr "Vezér"
+
+msgid "Quit Chesspark"
+msgstr "Kilépés a Chessparkból"
+
+msgid "Random arrangement of pieces, 960 possible combinations"
+msgstr "A figurák véletlenszerű elhelyezkedése, 960 lehetséges kombinációja"
+
+msgid "Rated Game"
+msgstr "pontszámra menő játszma"
+
+msgid "Rated"
+msgstr "pontra menő"
+
+msgid "Rating for %1 games: %2"
+msgstr "Értékszám a %1 partikban: %2"
+
+msgid "Rating"
+msgstr "Ranglista pontszám"
+
+msgid "Ratings"
+msgstr "Ranglista pontszámok"
+
+msgid "Reconnect cancelled."
+msgstr "Újrakapcsolódás elhalasztva."
+
+msgid "Reconnect"
+msgstr "Újrakapcsolódás"
+
+msgid "Reconnected."
+msgstr "Újrakapcsolódva."
+
+msgid "Reconnecting to network..."
+msgstr "Újrakapcsolódok a hálozathoz..."
+
+msgid "Refresh timed out!"
+msgstr "Frissítés közben időtúllépés történt!"
+
+msgid "Refresh"
+msgstr "Frissítés"
+
+msgid "Refreshing..."
+msgstr "Frissítés..."
+
+msgid "Rematch declined."
+msgstr "Visszavágó kérésedet az ellenfél elutasította."
+
+msgid "Rematch error: %s"
+msgstr "Visszavágó hiba: %s"
+
+msgid "Rematch request sent.  Hang on a sec."
+msgstr "Visszavágó kérést elküldtem. Kérlek várj egy pillanatot!"
+
+msgid "Rematch request sent."
+msgstr "Visszavágó kérést elküldtem."
+
+msgid "Rematch?"
+msgstr "Visszavágó?"
+
+msgid "Remember me"
+msgstr "Emlékezz rám"
+
+msgid "Remember Username"
+msgstr "Felhasználónév megjegyzése"
+
+msgid "Reminder: Players do not receive observer messages, only other observers do."
+msgstr "Emlékeztető: A nézők üzeneteit csak a többi néző kapja meg. A játékosok nem kapják meg. "
+
+msgid "Remove %1 from Friends List?"
+msgstr "%1 eltávolítása a barátlistáról?"
+
+msgid "Remove Friend"
+msgstr "Barát eltávolítása"
+
+msgid "Remove from all groups"
+msgstr "Távolítsd el minden csoportból"
+
+msgid "Remove from Favorites"
+msgstr "Eltávolítás a kedvencekből"
+
+msgid "Remove from this group"
+msgstr "Távolítsd el ebből a csoportból"
+
+msgid "Remove Game Ad?"
+msgstr "Eltávolítsam a játszma hírdetést?"
+
+msgid "Remove Group "
+msgstr "Csoport eltávolítása"
+
+msgid "Remove Group"
+msgstr "Eltávolítom a csoportot"
+
+msgid "Remove"
+msgstr "Eltávolítom"
+
+msgid "Rename Group"
+msgstr "Csoport átnevezése"
+
+msgid "Rename Group..."
+msgstr "Csoport átnevezése..."
+
+msgid "Request a Draw"
+msgstr "Döntetlent ajánlok"
+
+msgid "Request a Move Take Back"
+msgstr "Kérlek vegyél vissza egy lépést!"
+
+msgid "Request Adjournment"
+msgstr "Kérem a játszma elhalasztását"
+
+msgid "Request Game Abort"
+msgstr "Kérem a játszma befejezését"
+
+msgid "Request Game"
+msgstr "Kihívás egy játszámra"
+
+msgid "Request This Game"
+msgstr "Küldd el ezt a kihívást"
+
+msgid "Requesting preferences..."
+msgstr "Preferenciák kérése..."
+
+msgid "Requesting roster..."
+msgstr "Névsor kérése..."
+
+msgid "Resend Friend Request"
+msgstr "Barátlistára való felvétel kérésének újraküldése"
+
+msgid "Resend?"
+msgstr "Újraküld?"
+
+msgid "Reset Move"
+msgstr "Visszaveszi a lépést"
+
+msgid "Resign Game"
+msgstr "Feladom a játszmát"
+
+msgid "Resign"
+msgstr "Feladom"
+
+msgid "Resource conflict."
+msgstr "Forrás konfliktus."
+
+msgid "Respond To Game Ad by %1"
+msgstr "Válaszolok a %1 által feladott hírdetésre."
+
+msgid "Resume Adjourned Game with %1"
+msgstr "A %1 elleni elhalasztott játszma folytatása."
+
+msgid "Resume Game"
+msgstr "Játszma folytatása"
+
+msgid "Resume or forfeit your adjourned games from this list."
+msgstr "Kérd a folytatását az elhalasztott játszmáidnak vagy add fel őket erről a listáról!"
+
+msgid "Return"
+msgstr "Visszatérés"
+
+msgid "Revoke Admin Status"
+msgstr "Admin cím visszavétele"
+
+msgid "Revoke Moderator Status"
+msgstr "Moderátor cím visszavétele"
+
+msgid "Revoke Owner Status"
+msgstr "Tulajdonosi cím visszavétele"
+
+msgid "Revoke Voice Privilege"
+msgstr "Hang visszavétele"
+
+msgid "Revoke Voice"
+msgstr "Hang visszavétele"
+
+msgid "role"
+msgstr "Feladat"
+
+msgid "Roles"
+msgstr "Feladatok"
+
+msgid "Rook"
+msgstr "Bástya"
+
+msgid "Room does not exist"
+msgstr "A szoba nem létezik."
+
+msgid "Room Name"
+msgstr "Szoba név"
+
+msgid "Room names cannot have spaces!"
+msgstr "A szoba nevében nem lehet szünet jel!"
+
+msgid "Rooms list not loaded"
+msgstr "A szobalist nincs betöltve."
+
+msgid "Round %1 ended.  Next round begins in %2"
+msgstr " %1. forduló befejeződőtt. A következő forduló %2 múlva kezdődik."
+
+msgid "Round %1 ended."
+msgstr "%1. forduló befejeződőtt."
+
+msgid "Round %1 has begun!"
+msgstr "%1. forduló elkezdődőtt!"
+
+msgid "Round %1 has ended."
+msgstr "A %1.forduló befejeződőtt."
+
+msgid "Round %1 of %2, %3 games in play, %4 players"
+msgstr "%1. forduló. Összesen %2 forduló lesz. %4 résztvevő %3 játszmát játszik."
+
+msgid "Round"
+msgstr "forduló"
+
+msgid "Save Game As..."
+msgstr "Játszmát elmenteni"
+
+msgid "Save Game"
+msgstr "Játszma elmentése"
+
+msgid "Save This Time Control As"
+msgstr "Mentsd el ezt az időbeosztást, mint"
+
+msgid "Save Time Control As"
+msgstr "Mentsd el az időbeosztást"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Saved."
+msgstr "Elmentve."
+
+msgid "Saved..."
+msgstr "Elmentve..."
+
+msgid "Search again?"
+msgstr "Keressek újra?"
+
+msgid "Search for a game?"
+msgstr "Keressek egy játszmát?"
+
+msgid "Search for Games"
+msgstr "Játszmakeresés"
+
+msgid "Search for Tournaments"
+msgstr "Versenyek keresése"
+
+msgid "Search for"
+msgstr "Keresése"
+
+msgid "Search Help..."
+msgstr "Segítség a kereséshez..."
+
+msgid "Search Results"
+msgstr "A keresés eredménye"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Searching. Please wait..."
+msgstr "Keresés. Kérlek várj..."
+
+msgid "Searching..."
+msgstr "Keresés..."
+
+msgid "Select the side you would like to play."
+msgstr "Válaszd ki, hogy melyik színnel akarsz játszani!"
+
+msgid "Send Message"
+msgstr "Üzenetküldés"
+
+msgid "Send Message..."
+msgstr "Üzenet küldése..."
+
+msgid "Send Move"
+msgstr "Lépés küldése"
+
+msgid "September"
+msgstr "Szeptember"
+
+msgid "Set Round Start Time"
+msgstr "A forduló kezdési időpontjának beállítása"
+
+msgid "Set the time limits for each side."
+msgstr "Az időbeosztás beállítása mindkét fél számára."
+
+msgid "Set Tournament Round Start Time"
+msgstr "A verseny fordulójának a kezdési időpontjának a beállítása"
+
+msgid "Shift+Enter starts a new line instead of sending"
+msgstr "A Shift+Enter egy új sort kezd az üzenet elküldése helyett."
+
+msgid "Show Debug Window"
+msgstr "Mutasd a hibajavító ablakot"
+
+msgid "Show Friend Avatars"
+msgstr "Mutasd a barát képeit"
+
+msgid "Show Friend Groups"
+msgstr "Mutasd a barát csoportjait"
+
+msgid "Show Friends Tab"
+msgstr "Mutasd a Barátok fület"
+
+msgid "Show Games Tab"
+msgstr "Mutasd a játszmák fület"
+
+msgid "Always show join/part notices in chat rooms"
+msgstr "Mindig mutasd a chatszobákban, ha valaki belép. "
+
+msgid "Show Move List"
+msgstr "Mutasd a lépéslistát"
+
+msgid "Show Offline Friends"
+msgstr "Mutasd a nem kapcsolódott barátokat"
+
+msgid "Show Participants"
+msgstr "Mutasd a résztvevőket"
+
+msgid "Show Rooms Tab"
+msgstr "Mutasd a Szobák fület"
+
+msgid "Side"
+msgstr "Oldal"
+
+msgid "Small"
+msgstr "Kicsi"
+
+msgid "Sorry, no public chat rooms match what you've entered."
+msgstr "Sajnos nincs olyan nevű nyílvános chatszoba, mint amit beírtál."
+
+msgid "Sort By:"
+msgstr "Rendezés:"
+
+msgid "Speed"
+msgstr "Gyors"
+
+msgid "staff"
+msgstr "stáb"
+
+msgid "Stalemate."
+msgstr "Patt."
+
+msgid "Standard chess, standard rules."
+msgstr "Normál sakk, normál szabályok."
+
+msgid "Standard"
+msgstr "Normál"
+
+msgid "Standings"
+msgstr "Állás"
+
+msgid "Start a new chat room"
+msgstr "Új chatszoba létrehozása"
+
+msgid "Start Next Round"
+msgstr "Kezdd el a következő fordulót"
+
+msgid "Stats"
+msgstr "Statisztikák"
+
+msgid "System Message"
+msgstr "Rendszerüzenet"
+
+msgid "System"
+msgstr "Rendszer"
+
+msgid "That is not a valid jid!"
+msgstr "Ez érvénytelen Jabber felhasználónév"
+
+msgid "That nickname already exists."
+msgstr "Ezt a felhasználónév már létezik."
+
+msgid "The chat JID you entered appears to be malformed."
+msgstr "Hibás Jabber felhasználónevet írtál be."
+
+msgid "The friend JID you entered appears to be malformed."
+msgstr "Hibás barát Jabber felhasználónevet írtál be."
+
+msgid "The JID you entered appears to be malformed."
+msgstr "Hibás Jabber felhasználónevet írtál be."
+
+msgid "The password field is blank."
+msgstr "A jelszó nincs megadva."
+
+msgid "The players have agreed that this game is a draw."
+msgstr "A játékosok döntetlenben állapodtak meg."
+
+msgid "The players have agreed to adjourn this game."
+msgstr "A játékosok megegyeztek, hogy elhalasztják ezt a játszmát."
+
+msgid "The username and/or password aren't correct."
+msgstr "A felhasználónév és/vagy a jelszó hibás."
+
+msgid "The username field is blank."
+msgstr "A felhasználónév mező nincs kitötve."
+
+msgid "The username is not a valid JID."
+msgstr "Ez a felhasználónév érvénytelen Jabber felhasználónév."
+
+msgid "There is an error in the game ad. Please check your ad and time settings and try again."
+msgstr "Hiba van a játszmahírdetésben. Kérlek ellenőrizd a hírdetésed és az időbeálítást, majd próbáld újra!"
+
+msgid "This is how your friend will be shown on your friends list."
+msgstr "Igy fog megjelenni a barátod neve a barátlistán."
+
+msgid "This is the chatroom your friend will be invited to."
+msgstr "Ez a chatszoba, a barátod is kap meghívót ide."
+
+msgid "This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)"
+msgstr "Ez a termék tartalmaz Eric Young(eay@cryptsoft.com) által írt titkosító programot."
+
+msgid "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org)"
+msgstr "Ez a termék tartalmaz olyan programrészeket, amiket az OpenSSL Project fejlesztett az Open SSL eszközrendszerhez (http://openssl.org)."
+
+msgid "Time Setting"
+msgstr "Idő beállítás"
+
+msgid "Time Settings"
+msgstr "Időbeosztások"
+
+msgid "Time."
+msgstr "Idő."
+
+msgid "Titles"
+msgstr "Rangok"
+
+msgid "To join, click ^lhere^l or visit ^lhttp://chesspark.com^l."
+msgstr "Csatlakozáshoz klikkelj ^lˇhere^l vagy látogass el a ^lhttp://chesspark.com^l oldalra! "
+
+msgid "Toggle Chat"
+msgstr "Chat ablak megjelenítése/elrejtése"
+
+msgid "Total"
+msgstr "Teljes"
+
+msgid "Tournament is over, winner is %1!"
+msgstr "A verseny befejezödött, %1 a győztes "
+
+msgid "Tournament over!"
+msgstr "A verseny befejezödött!"
+
+msgid "Tournament Room"
+msgstr "Verseny szoba"
+
+msgid "Tournament Search Help..."
+msgstr "Versenykereső segítség..."
+
+msgid "Tournament"
+msgstr "Verseny"
+
+msgid "Tournament: %1"
+msgstr "Verseny: %1"
+
+msgid "Tournaments to Play"
+msgstr "Versenyek amelyeken résztvehetsz"
+
+msgid "Tournaments to Watch"
+msgstr "Nézhető versenyek"
+
+msgid "Tournaments"
+msgstr "Versenyek"
+
+msgid "Try contacting a staff member for assistance."
+msgstr "Kérlek, próbálj kapcsolatba lépni egy stábtaggal, hogy segítsen!"
+
+msgid "Type"
+msgstr "Írj"
+
+msgid "typing"
+msgstr "írás"
+
+msgid "Unknown error %1"
+msgstr "Ismeretlen hiba %1"
+
+msgid "Unknown search."
+msgstr "Ismeretlen keresés."
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "Unknown."
+msgstr "Ismeretlen."
+
+msgid "Unrated Game"
+msgstr "Értékszám nélküli játszma"
+
+msgid "Unrated games will not modify your rating."
+msgstr "Értékszám nélküli játszmák nem fogják módosítani az értékszámodat."
+
+msgid "Unrated"
+msgstr "Értékszám nélküli "
+
+msgid "Updated %1 ago"
+msgstr "%1 telt el a frissítés óta"
+
+msgid "Usage: %1"
+msgstr "Használat: %1"
+
+msgid "Use delay instead of increment."
+msgstr "Használj késleltetést, hozzáadás helyett."
+
+msgid "Use increment instead of delay."
+msgstr "Használj hozzáadást, késleltetés helyett!"
+
+msgid "User is offline"
+msgstr "A játékos nincs a szerveren"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "Variant"
+msgstr "Változat"
+
+msgid "Variants are modifications of the standard chess rules."
+msgstr "A sakkváltozatok, a normál sakk szabályainak a megváltoztatásával keletkezett játékok."
+
+msgid "Version %1, Build %2"
+msgstr "%1 változat, %2. alváltozat"
+
+msgid "View and play your long-term games from this list."
+msgstr "Nézd meg és játszd a hosszú partijaidat erről a listáról!"
+
+msgid "View Info"
+msgstr "Megnézem az információt."
+
+msgid "View Info..."
+msgstr "Információ megtekintése..."
+
+msgid "View Logs"
+msgstr "Naplófájlok megtekintése"
+
+msgid "View or remove your existing Game Ads."
+msgstr "Jelenlegi játszmahírdetéseid megtekintése vagy eltávolítása."
+
+msgid "vs."
+msgstr "ellen"
+
+msgid "Waiting for players, %1 games in play, %2 players"
+msgstr "Várunk a játékosokra, %1 játszmát játszik még %2 játékos."
+
+msgid "Want to play some chess?  Join Chesspark!  Please visit http://www.chesspark.com/"
+msgstr "Akarsz sakkot játszani? Csatlakozz a Chessparkhoz! Kérlek látogasd meg a http://www.chesspark.com/ oldalt!"
+
+msgid "Watching"
+msgstr "Néz"
+
+msgid "We're sorry, the server could not complete the request."
+msgstr "Sajnos a szerver nem tudta teljesíteni a kérésedet."
+
+msgid "We're sorry, there was an error with your request. Please try again."
+msgstr "Sajnos, vot egy hiba a kérésedben. Kérlek, próbáld újra!"
+
+msgid "We're supposed to be in beta still."
+msgstr "A szerver még feltételezhetően béta változatban működik"
+
+msgid "Welcome to Chesspark!"
+msgstr "Üdvözlünk a Chessparkban!"
+
+msgid "Welcome to Chesspark"
+msgstr "Üdvözlünk a Chessparkban"
+
+msgid "White or Black"
+msgstr "Világos vagy Sötét"
+
+msgid "White time remaining: %1"
+msgstr "Világos hátralévő ideje: %1"
+
+msgid "White"
+msgstr "Világos"
+
+msgid "Why upgrade?"
+msgstr "Miért frissíts?"
+
+msgid "Written %1"
+msgstr "írva %1"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "You already have a custom time control with this name.  Do you want to replace it?"
+msgstr "Már van egy elmentett időbeosztásod ezen a néven, felül akarod írni?"
+
+msgid "You already have that nickname."
+msgstr "Már ez a beceneved."
+
+msgid "You appear to be logged into Chesspark from too many different places."
+msgstr "Túl sok különböző helyről vagy belépve a Chessparkba."
+
+msgid "You appear to be running an old version of Chesspark."
+msgstr "A Chesspark régi változatát használod."
+
+msgid "You are banned in this chatroom!"
+msgstr "Ebből a chatszobából ki vagy tilva!"
+
+msgid "You are currently playing a game."
+msgstr "Jelenleg játszol."
+
+msgid "You are not on the member list"
+msgstr "Nem vagy rajta a taglistán"
+
+msgid "You are still playing a game.  Would you like to resign or return?"
+msgstr "Még játszol egy partit. Feladod, vagy folytatod?"
+
+msgid "You can always re-create this Game Ad from the plus menu in the games list."
+msgstr "Mindig újra létre tudod hozni ezt a játszmahírdetést, a plus menüben a játszmalistán."
+
+msgid "You can't change your nickname in a chesspark room."
+msgstr "Nem tudod megváltoztatni a nevedet egy chesspark szobában."
+
+msgid "You currently have no adjourned games."
+msgstr "Nincsen elhalasztott játszmád."
+
+msgid "You currently have no correspondence games."
+msgstr "Nincsen levelezési játzmád."
+
+msgid "You currently have no game ads."
+msgstr "Nincsenek játszmahírdetéseid."
+
+msgid "You don't appear to have an account at Chesspark."
+msgstr "Nincs regisztrált neved a Chessparkban."
+
+msgid "You have adjourned games to play!"
+msgstr "Vannak elhalasztott játszmáid, amiket le kell játszanod!"
+
+msgid "You have agreed that this game is a draw."
+msgstr "Elfogadtad a döntetlenajánlatot."
+
+msgid "You have been disconnected."
+msgstr "Megszakadt a kapcsolatod a szerverrel."
+
+msgid "You have been logged out of the Chesspark game server!"
+msgstr "Kiléptél a Chesspark játék szerverről!"
+
+msgid "You have correspondence games to play!"
+msgstr "Lejátszandó levelezési játszmáid vannak!"
+
+msgid "You have declined your opponent's request for a draw."
+msgstr "Elutasítottad ellenfeled döntetlen ajánlatát."
+
+msgid "You have declined your opponent's request to adjourn."
+msgstr "Elutasítottad ellefeled kérését, a játszma elhalasztására."
+
+msgid "You have requested a draw."
+msgstr "Döntetlent ajánlottál."
+
+msgid "You have requested to adjourn this game."
+msgstr "A játszma elhalasztását kérted."
+
+msgid "You have resigned."
+msgstr "Feladtad a játszmát."
+
+msgid "You lose."
+msgstr "Vesztettél."
+
+msgid "You searched for a ^bgame to play:^b"
+msgstr "Kerestél ^bellenfelet játszani:^b"
+
+msgid "You searched for a ^bgame to watch:^b"
+msgstr "Kerestél ^bmegtekinthető játszmákat:^b"
+
+msgid "You searched for a ^btournament:^b"
+msgstr "Kerestél egy ^bversenyt:^b"
+
+msgid "You will be able to chat, but unable to participate in games or tournaments without logging in again."
+msgstr "Chatelhetsz, de csak akkor játszhatsz partikat, ha újra bejelentkezel."
+
+msgid "You win."
+msgstr "Nyertél."
+
+msgid "You're still playing!"
+msgstr "Még játszol!"
+
+msgid "Your adjourned games"
+msgstr "Függőjátszmáid:"
+
+msgid "Your correspondence game request to %1 was accepted."
+msgstr "A levelezési játszma ajánlatodat %1 elfogadta."
+
+msgid "Your correspondence game request to %1 was declined."
+msgstr "A levelezési játszma ajánlatodat %1 elutasította."
+
+msgid "Your correspondence games:"
+msgstr "A levelezési játszmáid:"
+
+msgid "Your draw request was cancelled."
+msgstr "A döntetlenajánlatodat visszavontad."
+
+msgid "Your game ads:"
+msgstr "Játszmahírdetéseid:"
+
+msgid "Your game request was declined."
+msgstr "A kihívásodat elutasította."
+
+msgid "Your membership has expired."
+msgstr "A tagságod lejárt."
+
+msgid "Your membership to Chesspark has expired!"
+msgstr "A Sakkpark tagságod lejárt!"
+
+msgid "Your nickname is in use in this room.  Please type in another and press enter."
+msgstr "A becenevedet, már használják ebben a szobában. Kérlek írj be egy új nevet és nyomd le az entert"
+
+msgid "Your opponent has accepted your request for a draw."
+msgstr "Az ellenfeled elfogadta a döntetlen ajánlatodat"
+
+msgid "Your opponent has cancelled the draw request."
+msgstr "Az ellenfeled visszavonta a döntetlenajánlatot."
+
+msgid "Your opponent has declined your request for a draw."
+msgstr "Az ellenfede elutasította a döntetlenajánlatodat."
+
+msgid "Your opponent has declined your request to adjourn."
+msgstr "Játszmahalasztási kérelmedet elutasította az ellenfeled."
+
+msgid "Your opponent has requested a draw."
+msgstr "Az ellenfeled döntetlent ajánlott."
+
+msgid "Your opponent has requested to adjourn the game."
+msgstr "Az ellenfeled a játszma elhalasztását kérte."
+
+msgid "Your opponent has requested to adjourn."
+msgstr "Az ellenfeled a játszma elhalasztását kérte."
+
+msgid "Your opponent has resigned."
+msgstr "Az ellenfeled feladta a játszmát."
+
+msgid "Your opponent requests a rematch."
+msgstr "Az ellenfeled visszavágót kér."
+
+msgid "Your request has been sent to %1. Awaiting response..."
+msgstr "A kihívást elküldted %1-nak. Várunk a válaszára..."
+
+msgid "Your request has been sent."
+msgstr "A kihívást elküdted."
+
+msgid "Your expired account will still let you chat with friends, but you won't be able to play or view games."
+msgstr "A lejárt előfizetéseddel továbbra is tudsz chatelni a barátaiddal, de nem tudsz nézni partikat vagy játszani."
+
+msgid "Chesspark Account Expired"
+msgstr "Sakkpark tagság lejárt"
+
+msgid "Show join/part notices when participants list is closed"
+msgstr "Mutasd, hogy ki lép be a szobába, amikor a résztvevők lista be van zárva."
+
+msgid "Don't show this again"
+msgstr "Ne mutasd ezt újra"
+
+msgid "Don't show welcome dialog"
+msgstr "Ne mutasd az üdvözlő üzenetet!"
+
+msgid "Your opponent has agreed to adjourn this game."
+msgstr "Az ellenfeled elfogadta, hogy elhalasszátok a játszmát."
+
+msgid "You have agreed to adjourn this game."
+msgstr "Elfogadtad, hogy elhalasszátok a játszmát."
+
+msgid "New Message"
+msgstr "Új üzenet"
+
+msgid "Friend Request"
+msgstr "Barátlistára való felvétel kérése"
+
+msgid "Game Request"
+msgstr "Kihívás egy játszmára"
+
+msgid "%1 has entered the room."
+msgstr "%1 bejött a szobába."
+
+msgid "%1 has left the room."
+msgstr "%1 kiment a szobából."
+
+msgid "Friends"
+msgstr "Barátok"
+
+msgid "Rooms"
+msgstr "Szobák"
+
+msgid "member"
+msgstr "tag"
+
+msgid "Forgot your password?"
+msgstr "Elfelejtetted a jelszavad?"
+
+msgid "Chesspark Username"
+msgstr "Chesspark felhasználónév"
+
+msgid "For example: chessfan"
+msgstr "Például: sakkrajongó"
+
+msgid "For example: name@jabber.org"
+msgstr "Például: név@jabber.org"
+
+msgid "%1 user"
+msgstr "%1 felhasználó"
+
+msgid "%1 users"
+msgstr "%1 felhasználó"
+
+msgid "Chesspark Options"
+msgstr "Chesspark beállítások"
+
+msgid "Game #%1"
+msgstr "%1.játszma"
+
+msgid "Move #%1"
+msgstr "%1.lépés"
+
+msgid "Reason"
+msgstr "Ok"
+
+msgid "after"
+msgstr "után"
+
+msgid "minutes."
+msgstr "perc."
+
+msgid "seconds"
+msgstr "másodperc"
+
+msgid "within"
+msgstr "belül"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "^bTo resume full access to Chesspark,^b ^lupdate your account information^l. Thanks!"
+msgstr " ^b A teljes Chesspark hozzáféréshez, ,^b ^l kérlek frissítsd fel az felhasználói információkat! Köszönöm."
+

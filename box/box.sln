@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "box", "box.vcproj", "{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DLL ASM Debug = DLL ASM Debug
+		DLL ASM Release = DLL ASM Release
+		DLL Debug = DLL Debug
+		DLL Release = DLL Release
+		DLL VB = DLL VB
+		LIB ASM Debug = LIB ASM Debug
+		LIB ASM Release = LIB ASM Release
+		LIB Debug = LIB Debug
+		LIB Release = LIB Release
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Debug.ActiveCfg = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Debug.Build.0 = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL ASM Debug.ActiveCfg = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL ASM Debug.Build.0 = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL ASM Release.ActiveCfg = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL ASM Release.Build.0 = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL Debug.ActiveCfg = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL Debug.Build.0 = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL Release.ActiveCfg = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL Release.Build.0 = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL VB.ActiveCfg = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.DLL VB.Build.0 = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB ASM Debug.ActiveCfg = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB ASM Debug.Build.0 = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB ASM Release.ActiveCfg = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB ASM Release.Build.0 = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB Debug.ActiveCfg = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB Debug.Build.0 = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB Release.ActiveCfg = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.LIB Release.Build.0 = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Release.ActiveCfg = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

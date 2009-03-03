@@ -1,0 +1,65 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChessParkClient", "ChessParkClient.vcproj", "{329EFD00-2E1B-433C-A8CA-080C07738897}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4FE8FA2B-929B-421A-9A67-36569D293219} = {4FE8FA2B-929B-421A-9A67-36569D293219}
+		{B10F1256-3E39-4DFD-A835-00F1D71BD651} = {B10F1256-3E39-4DFD-A835-00F1D71BD651}
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22} = {7E043EFC-16A0-4B32-955A-C1DDA06AAB22}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "box", "box\box.vcproj", "{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B10F1256-3E39-4DFD-A835-00F1D71BD651} = {B10F1256-3E39-4DFD-A835-00F1D71BD651}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "common", "common\common.vcproj", "{B10F1256-3E39-4DFD-A835-00F1D71BD651}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrashReport", "CrashReport\CrashReport.vcproj", "{738A1147-7367-4B0E-8243-547EB54B97D9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4FE8FA2B-929B-421A-9A67-36569D293219} = {4FE8FA2B-929B-421A-9A67-36569D293219}
+		{B10F1256-3E39-4DFD-A835-00F1D71BD651} = {B10F1256-3E39-4DFD-A835-00F1D71BD651}
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22} = {7E043EFC-16A0-4B32-955A-C1DDA06AAB22}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dialogs", "Dialogs\Dialogs.vcproj", "{4FE8FA2B-929B-421A-9A67-36569D293219}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22} = {7E043EFC-16A0-4B32-955A-C1DDA06AAB22}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "upgrader", "upgrader\upgrader.vcproj", "{CA3DE7A6-3B70-4DBC-AAB3-C893FEA9F58A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329EFD00-2E1B-433C-A8CA-080C07738897}.Debug|Win32.ActiveCfg = Debug|Win32
+		{329EFD00-2E1B-433C-A8CA-080C07738897}.Debug|Win32.Build.0 = Debug|Win32
+		{329EFD00-2E1B-433C-A8CA-080C07738897}.Release|Win32.ActiveCfg = Release|Win32
+		{329EFD00-2E1B-433C-A8CA-080C07738897}.Release|Win32.Build.0 = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Debug|Win32.Build.0 = Debug|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Release|Win32.ActiveCfg = Release|Win32
+		{7E043EFC-16A0-4B32-955A-C1DDA06AAB22}.Release|Win32.Build.0 = Release|Win32
+		{B10F1256-3E39-4DFD-A835-00F1D71BD651}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B10F1256-3E39-4DFD-A835-00F1D71BD651}.Debug|Win32.Build.0 = Debug|Win32
+		{B10F1256-3E39-4DFD-A835-00F1D71BD651}.Release|Win32.ActiveCfg = Release|Win32
+		{B10F1256-3E39-4DFD-A835-00F1D71BD651}.Release|Win32.Build.0 = Release|Win32
+		{738A1147-7367-4B0E-8243-547EB54B97D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{738A1147-7367-4B0E-8243-547EB54B97D9}.Debug|Win32.Build.0 = Debug|Win32
+		{738A1147-7367-4B0E-8243-547EB54B97D9}.Release|Win32.ActiveCfg = Release|Win32
+		{738A1147-7367-4B0E-8243-547EB54B97D9}.Release|Win32.Build.0 = Release|Win32
+		{4FE8FA2B-929B-421A-9A67-36569D293219}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FE8FA2B-929B-421A-9A67-36569D293219}.Debug|Win32.Build.0 = Debug|Win32
+		{4FE8FA2B-929B-421A-9A67-36569D293219}.Release|Win32.ActiveCfg = Release|Win32
+		{4FE8FA2B-929B-421A-9A67-36569D293219}.Release|Win32.Build.0 = Release|Win32
+		{CA3DE7A6-3B70-4DBC-AAB3-C893FEA9F58A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA3DE7A6-3B70-4DBC-AAB3-C893FEA9F58A}.Debug|Win32.Build.0 = Debug|Win32
+		{CA3DE7A6-3B70-4DBC-AAB3-C893FEA9F58A}.Release|Win32.ActiveCfg = Release|Win32
+		{CA3DE7A6-3B70-4DBC-AAB3-C893FEA9F58A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
